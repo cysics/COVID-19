@@ -2,7 +2,6 @@
 library(tidyverse); library(reshape2); library(tibble)
 rdata <- list()
 
-
 #### 가. 신종플루 데이터 ####
 # https://en.wikipedia.org/wiki/2009_flu_pandemic_by_country
 print(rdata$H1N1 <- data.frame(Country=c("Korea", "China", "Japan", "US"),
