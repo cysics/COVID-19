@@ -75,7 +75,7 @@ data[data$Date=="2020-03-11",] %>% ggbarplot(x="Country", y="DeathRate",
 
 
 #### 나. 시간에 따른 변화 ####
-library(gganimate); library(scales)
+library(gganimate)
 data %>% ggbarplot(x="Country", y="DeathRate", fill="group", ylab="Death Rate(%)", 
   palette="Paired", position=position_dodge(0.85), label=T, lab.size=7)+
   theme(text=element_text(size=20), plot.margin=margin(10, 30, 10, 10),
