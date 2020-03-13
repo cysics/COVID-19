@@ -18,7 +18,7 @@ rdata$url <- c("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master
          "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Deaths.csv", 
          "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Recovered.csv")
 
-# 미국은 50개 주 데이터만 인정, 후베이는 따로 구분하지 않음.
+# 미국은 주 데이터만 인정, 후베이는 따로 구분하지 않음.
 rdata$confirmedCases <- read_csv(rdata$url[1]) %>% select(-c(Lat,Long)) %>% 
   melt(id=c('Country/Region','Province/State')) %>% 
   rename("Country"=1, "State"=2, "Variable"=3, "Confirmed"=4) %>% 
@@ -46,8 +46,6 @@ rdata$COVID19 <- merge(merge(rdata$confirmedCases, rdata$DeathCases,
   mutate(DeathRate=Deaths/Confirmed)
 
 rdata$COVID19$Country <- gsub("Korea\\, South", "Korea", rdata$COVID19$Country)
-rdata$COVID19$Country <- gsub("Iran \\(Islamic Republic of\\)", "Iran",
-                              rdata$COVID19$Country)
 
 max(rdata$COVID19$Date)
 
@@ -69,7 +67,7 @@ str(data <- rbind(data.frame(group="COVID19", rdata$data1),
   filter(Date<"2020-03-10"))
 
 data[data$Date=="2020-03-09",] %>% ggbarplot(x="Country", y="DeathRate", 
-  ylab="Death Rate(%)", fill="group", ylim=c(0,4.5), palette="Paired",
+  ylab="Death Rate(%)", fill="group", ylim=c(0,4.5), 
   position=position_dodge(0.85), label=T, lab.size=5) + 
   theme(text=element_text(size=20), 
   plot.margin=margin(10, 30, 10, 10), legend.position=c(0.2, 0.7))
