@@ -1,0 +1,5944 @@
+Country,Day,TotalTests,ConfirmedCases
+Afghanistan,-21,,0
+Afghanistan,-20,,0
+Afghanistan,-19,,0
+Afghanistan,-18,,0
+Afghanistan,-17,,0
+Afghanistan,-16,,0
+Afghanistan,-15,,0
+Afghanistan,-14,,0
+Afghanistan,-13,,0
+Afghanistan,-12,,0
+Afghanistan,-11,,0
+Afghanistan,-10,,0
+Afghanistan,-9,,0
+Afghanistan,-8,,0
+Afghanistan,-7,,0
+Afghanistan,-6,,0
+Afghanistan,-5,,0
+Afghanistan,-4,,0
+Afghanistan,-3,,0
+Afghanistan,-2,,0
+Afghanistan,-1,,0
+Afghanistan,0,,0
+Afghanistan,1,,0
+Afghanistan,2,,0
+Afghanistan,3,,0
+Afghanistan,4,,0
+Afghanistan,5,,0
+Afghanistan,6,,0
+Afghanistan,7,,0
+Afghanistan,8,,0
+Afghanistan,9,,0
+Afghanistan,10,,0
+Afghanistan,11,,0
+Afghanistan,12,,0
+Afghanistan,13,,0
+Afghanistan,14,,0
+Afghanistan,15,,0
+Afghanistan,16,,0
+Afghanistan,17,,0
+Afghanistan,18,,0
+Afghanistan,19,,0
+Afghanistan,20,,0
+Afghanistan,21,,0
+Afghanistan,22,,0
+Afghanistan,23,,0
+Afghanistan,24,,0
+Afghanistan,25,,0
+Afghanistan,26,,0
+Afghanistan,27,,0
+Afghanistan,28,,0
+Afghanistan,29,,0
+Afghanistan,30,,0
+Afghanistan,31,,0
+Afghanistan,32,,0
+Afghanistan,33,,0
+Afghanistan,34,,0
+Afghanistan,35,,1
+Afghanistan,36,,1
+Afghanistan,37,,1
+Afghanistan,38,,1
+Afghanistan,39,,1
+Afghanistan,40,,1
+Afghanistan,41,,1
+Afghanistan,47,,4
+Afghanistan,50,,7
+Afghanistan,54,,10
+Afghanistan,55,,16
+Afghanistan,56,,21
+Afghanistan,57,,22
+Afghanistan,58,,22
+Afghanistan,59,,22
+Albania,48,,2
+Albania,49,,6
+Albania,50,,10
+Albania,51,,11
+Albania,52,,23
+Albania,53,,33
+Albania,54,,38
+Albania,55,,42
+Albania,56,,51
+Albania,57,,55
+Albania,58,,59
+Albania,59,,70
+Algeria,-21,,0
+Algeria,-20,,0
+Algeria,-19,,0
+Algeria,-18,,0
+Algeria,-17,,0
+Algeria,-16,,0
+Algeria,-15,,0
+Algeria,-14,,0
+Algeria,-13,,0
+Algeria,-12,,0
+Algeria,-11,,0
+Algeria,-10,,0
+Algeria,-9,,0
+Algeria,-8,,0
+Algeria,-7,,0
+Algeria,-6,,0
+Algeria,-5,,0
+Algeria,-4,,0
+Algeria,-3,,0
+Algeria,-2,,0
+Algeria,-1,,0
+Algeria,0,,0
+Algeria,1,,0
+Algeria,2,,0
+Algeria,3,,0
+Algeria,4,,0
+Algeria,5,,0
+Algeria,6,,0
+Algeria,7,,0
+Algeria,8,,0
+Algeria,9,,0
+Algeria,10,,0
+Algeria,11,,0
+Algeria,12,,0
+Algeria,13,,0
+Algeria,14,,0
+Algeria,15,,0
+Algeria,16,,0
+Algeria,17,,0
+Algeria,18,,0
+Algeria,19,,0
+Algeria,20,,0
+Algeria,21,,0
+Algeria,22,,0
+Algeria,23,,0
+Algeria,24,,0
+Algeria,25,,0
+Algeria,26,,0
+Algeria,27,,0
+Algeria,28,,0
+Algeria,29,,0
+Algeria,30,,0
+Algeria,31,,0
+Algeria,32,,0
+Algeria,33,,0
+Algeria,34,,0
+Algeria,35,,0
+Algeria,36,,1
+Algeria,37,,1
+Algeria,38,,1
+Algeria,39,,1
+Algeria,40,,1
+Algeria,41,,3
+Algeria,43,,5
+Algeria,44,,12
+Algeria,45,,17
+Algeria,48,,20
+Algeria,51,,20
+Algeria,52,,24
+Algeria,53,,26
+Algeria,54,,37
+Algeria,55,,48
+Algeria,56,,60
+Algeria,57,,60
+Algeria,58,,73
+Algeria,59,,82
+Andorra,42,,1
+Andorra,53,,2
+Andorra,55,,5
+Andorra,56,,14
+Andorra,57,,14
+Andorra,58,,53
+Andorra,59,,75
+Antigua and Barbuda,54,,1
+Argentina,43,,1
+Argentina,45,,2
+Argentina,46,,8
+Argentina,47,,9
+Argentina,48,,12
+Argentina,50,,19
+Argentina,52,,31
+Argentina,53,,34
+Argentina,54,,45
+Argentina,55,,56
+Argentina,56,,65
+Argentina,57,,79
+Argentina,58,,97
+Argentina,59,,128
+Armenia,-21,,0
+Armenia,-20,,0
+Armenia,-19,,0
+Armenia,-18,,0
+Armenia,-17,,0
+Armenia,-16,,0
+Armenia,-15,,0
+Armenia,-14,,0
+Armenia,-13,,0
+Armenia,-12,,0
+Armenia,-11,,0
+Armenia,-10,,0
+Armenia,-9,,0
+Armenia,-8,,0
+Armenia,-7,,0
+Armenia,-6,,0
+Armenia,-5,,0
+Armenia,-4,,0
+Armenia,-3,,0
+Armenia,-2,,0
+Armenia,-1,,0
+Armenia,0,,0
+Armenia,1,,0
+Armenia,2,,0
+Armenia,3,,0
+Armenia,4,,0
+Armenia,5,,0
+Armenia,6,,0
+Armenia,7,,0
+Armenia,8,,0
+Armenia,9,,0
+Armenia,10,,0
+Armenia,11,,0
+Armenia,12,,0
+Armenia,13,,0
+Armenia,14,,0
+Armenia,15,,0
+Armenia,16,,0
+Armenia,17,,0
+Armenia,18,,0
+Armenia,19,,0
+Armenia,20,,0
+Armenia,21,,0
+Armenia,22,,0
+Armenia,23,,0
+Armenia,24,,0
+Armenia,25,,0
+Armenia,26,,0
+Armenia,27,,0
+Armenia,28,,0
+Armenia,29,,0
+Armenia,30,,0
+Armenia,31,,0
+Armenia,32,,0
+Armenia,33,,0
+Armenia,34,,0
+Armenia,35,,0
+Armenia,36,,0
+Armenia,37,,0
+Armenia,38,,0
+Armenia,39,,0
+Armenia,40,,1
+Armenia,41,,1
+Armenia,51,,4
+Armenia,52,,6
+Armenia,53,,13
+Armenia,54,,20
+Armenia,55,,30
+Armenia,56,,52
+Armenia,57,813,78
+Armenia,58,,115
+Armenia,59,,122
+Australia,-21,,0
+Australia,-20,,0
+Australia,-19,,0
+Australia,-18,,0
+Australia,-17,,0
+Australia,-16,,0
+Australia,-15,,0
+Australia,-14,,0
+Australia,-13,,0
+Australia,-12,,0
+Australia,-11,,0
+Australia,-10,,0
+Australia,-9,,0
+Australia,-8,,0
+Australia,-7,,0
+Australia,-6,,0
+Australia,-5,,0
+Australia,-4,,0
+Australia,-3,,0
+Australia,-2,,0
+Australia,-1,,0
+Australia,0,,0
+Australia,1,,0
+Australia,2,,0
+Australia,3,,0
+Australia,4,,1
+Australia,5,,4
+Australia,6,,4
+Australia,7,,4
+Australia,8,,4
+Australia,9,,6
+Australia,10,,7
+Australia,11,,9
+Australia,12,,11
+Australia,13,,11
+Australia,14,,11
+Australia,15,,12
+Australia,16,,13
+Australia,17,,14
+Australia,18,,14
+Australia,19,,14
+Australia,20,,14
+Australia,21,,14
+Australia,22,,14
+Australia,23,,14
+Australia,24,,15
+Australia,25,,15
+Australia,26,,15
+Australia,27,,15
+Australia,28,,15
+Australia,29,,15
+Australia,30,,15
+Australia,31,,17
+Australia,32,,21
+Australia,33,,22
+Australia,34,,22
+Australia,35,,22
+Australia,36,,22
+Australia,37,,23
+Australia,38,,23
+Australia,39,,25
+Australia,40,,26
+Australia,41,,29
+Australia,42,,33
+Australia,43,,41
+Australia,44,,52
+Australia,45,,59
+Australia,46,,63
+Australia,47,,74
+Australia,48,,80
+Australia,49,,100
+Australia,50,,112
+Australia,51,,126
+Australia,52,,156
+Australia,53,,197
+Australia,54,,249
+Australia,55,,298
+Australia,56,,375
+Australia,57,,454
+Australia,58,,565
+Australia,59,113615,709
+Australia - Australian Capital Territory,59,2062,
+Australia - New South Wales,58,39089,
+Australia - Queensland,58,27000,
+Australia - South Australia,59,16717,
+Australia - Tasmania,58,807,
+Australia - Victoria,58,19337,
+Australia - Western Australia,58,8603,
+Austria,-21,,0
+Austria,-20,,0
+Austria,-19,,0
+Austria,-18,,0
+Austria,-17,,0
+Austria,-16,,0
+Austria,-15,,0
+Austria,-14,,0
+Austria,-13,,0
+Austria,-12,,0
+Austria,-11,,0
+Austria,-10,,0
+Austria,-9,,0
+Austria,-8,,0
+Austria,-7,,0
+Austria,-6,,0
+Austria,-5,,0
+Austria,-4,,0
+Austria,-3,,0
+Austria,-2,,0
+Austria,-1,,0
+Austria,0,,0
+Austria,1,,0
+Austria,2,,0
+Austria,3,,0
+Austria,4,,0
+Austria,5,,0
+Austria,6,,0
+Austria,7,,0
+Austria,8,,0
+Austria,9,,0
+Austria,10,,0
+Austria,11,,0
+Austria,12,,0
+Austria,13,,0
+Austria,14,,0
+Austria,15,,0
+Austria,16,,0
+Austria,17,,0
+Austria,18,,0
+Austria,19,,0
+Austria,20,,0
+Austria,21,,0
+Austria,22,,0
+Austria,23,,0
+Austria,24,,0
+Austria,25,,0
+Austria,26,,0
+Austria,27,,0
+Austria,28,,0
+Austria,29,,0
+Austria,30,,0
+Austria,31,,0
+Austria,32,,0
+Austria,33,,0
+Austria,34,,0
+Austria,35,,0
+Austria,36,,2
+Austria,37,,2
+Austria,38,,5
+Austria,39,,7
+Austria,40,,10
+Austria,41,,14
+Austria,42,,18
+Austria,43,,24
+Austria,44,,29
+Austria,45,,41
+Austria,46,,74
+Austria,47,,99
+Austria,48,,102
+Austria,49,,131
+Austria,50,,182
+Austria,51,,246
+Austria,52,,361
+Austria,53,,504
+Austria,54,,655
+Austria,55,,860
+Austria,56,,1016
+Austria,57,,1332
+Austria,58,,1646
+Austria,59,15613,2196
+Azerbaijan,-21,,0
+Azerbaijan,-20,,0
+Azerbaijan,-19,,0
+Azerbaijan,-18,,0
+Azerbaijan,-17,,0
+Azerbaijan,-16,,0
+Azerbaijan,-15,,0
+Azerbaijan,-14,,0
+Azerbaijan,-13,,0
+Azerbaijan,-12,,0
+Azerbaijan,-11,,0
+Azerbaijan,-10,,0
+Azerbaijan,-9,,0
+Azerbaijan,-8,,0
+Azerbaijan,-7,,0
+Azerbaijan,-6,,0
+Azerbaijan,-5,,0
+Azerbaijan,-4,,0
+Azerbaijan,-3,,0
+Azerbaijan,-2,,0
+Azerbaijan,-1,,0
+Azerbaijan,0,,0
+Azerbaijan,1,,0
+Azerbaijan,2,,0
+Azerbaijan,3,,0
+Azerbaijan,4,,0
+Azerbaijan,5,,0
+Azerbaijan,6,,0
+Azerbaijan,7,,0
+Azerbaijan,8,,0
+Azerbaijan,9,,0
+Azerbaijan,10,,0
+Azerbaijan,11,,0
+Azerbaijan,12,,0
+Azerbaijan,13,,0
+Azerbaijan,14,,0
+Azerbaijan,15,,0
+Azerbaijan,16,,0
+Azerbaijan,17,,0
+Azerbaijan,18,,0
+Azerbaijan,19,,0
+Azerbaijan,20,,0
+Azerbaijan,21,,0
+Azerbaijan,22,,0
+Azerbaijan,23,,0
+Azerbaijan,24,,0
+Azerbaijan,25,,0
+Azerbaijan,26,,0
+Azerbaijan,27,,0
+Azerbaijan,28,,0
+Azerbaijan,29,,0
+Azerbaijan,30,,0
+Azerbaijan,31,,0
+Azerbaijan,32,,0
+Azerbaijan,33,,0
+Azerbaijan,34,,0
+Azerbaijan,35,,0
+Azerbaijan,36,,0
+Azerbaijan,37,,0
+Azerbaijan,38,,0
+Azerbaijan,39,,1
+Azerbaijan,40,,1
+Azerbaijan,41,,3
+Azerbaijan,45,,6
+Azerbaijan,46,,9
+Azerbaijan,50,,11
+Azerbaijan,51,,13
+Azerbaijan,52,,13
+Azerbaijan,54,,19
+Azerbaijan,55,,19
+Azerbaijan,56,,19
+Azerbaijan,57,,28
+Azerbaijan,58,,34
+Azerbaijan,59,,44
+Bahamas,55,,1
+Bahamas,56,,1
+Bahamas,59,,3
+Bahrain,-21,,0
+Bahrain,-20,,0
+Bahrain,-19,,0
+Bahrain,-18,,0
+Bahrain,-17,,0
+Bahrain,-16,,0
+Bahrain,-15,,0
+Bahrain,-14,,0
+Bahrain,-13,,0
+Bahrain,-12,,0
+Bahrain,-11,,0
+Bahrain,-10,,0
+Bahrain,-9,,0
+Bahrain,-8,,0
+Bahrain,-7,,0
+Bahrain,-6,,0
+Bahrain,-5,,0
+Bahrain,-4,,0
+Bahrain,-3,,0
+Bahrain,-2,,0
+Bahrain,-1,,0
+Bahrain,0,,0
+Bahrain,1,,0
+Bahrain,2,,0
+Bahrain,3,,0
+Bahrain,4,,0
+Bahrain,5,,0
+Bahrain,6,,0
+Bahrain,7,,0
+Bahrain,8,,0
+Bahrain,9,,0
+Bahrain,10,,0
+Bahrain,11,,0
+Bahrain,12,,0
+Bahrain,13,,0
+Bahrain,14,,0
+Bahrain,15,,0
+Bahrain,16,,0
+Bahrain,17,,0
+Bahrain,18,,0
+Bahrain,19,,0
+Bahrain,20,,0
+Bahrain,21,,0
+Bahrain,22,,0
+Bahrain,23,,0
+Bahrain,24,,0
+Bahrain,25,,0
+Bahrain,26,,0
+Bahrain,27,,0
+Bahrain,28,,0
+Bahrain,29,,0
+Bahrain,30,,0
+Bahrain,31,,0
+Bahrain,32,,0
+Bahrain,33,,0
+Bahrain,34,,1
+Bahrain,35,,2
+Bahrain,36,,23
+Bahrain,37,,33
+Bahrain,38,,33
+Bahrain,39,,38
+Bahrain,40,,41
+Bahrain,41,,47
+Bahrain,43,,49
+Bahrain,44,,52
+Bahrain,45,,52
+Bahrain,46,,56
+Bahrain,47,,63
+Bahrain,48,,79
+Bahrain,49,,109
+Bahrain,50,,110
+Bahrain,51,,162
+Bahrain,52,,162
+Bahrain,53,,210
+Bahrain,54,,211
+Bahrain,55,,214
+Bahrain,56,,221
+Bahrain,57,,237
+Bahrain,58,,256
+Bahrain,59,18645,269
+Bangladesh,48,,3
+Bangladesh,54,,3
+Bangladesh,56,,5
+Bangladesh,57,,8
+Bangladesh,58,,10
+Bangladesh,59,,10
+Barbados,57,,1
+Barbados,58,,1
+Barbados,59,,2
+Belarus,-21,,0
+Belarus,-20,,0
+Belarus,-19,,0
+Belarus,-18,,0
+Belarus,-17,,0
+Belarus,-16,,0
+Belarus,-15,,0
+Belarus,-14,,0
+Belarus,-13,,0
+Belarus,-12,,0
+Belarus,-11,,0
+Belarus,-10,,0
+Belarus,-9,,0
+Belarus,-8,,0
+Belarus,-7,,0
+Belarus,-6,,0
+Belarus,-5,,0
+Belarus,-4,,0
+Belarus,-3,,0
+Belarus,-2,,0
+Belarus,-1,,0
+Belarus,0,,0
+Belarus,1,,0
+Belarus,2,,0
+Belarus,3,,0
+Belarus,4,,0
+Belarus,5,,0
+Belarus,6,,0
+Belarus,7,,0
+Belarus,8,,0
+Belarus,9,,0
+Belarus,10,,0
+Belarus,11,,0
+Belarus,12,,0
+Belarus,13,,0
+Belarus,14,,0
+Belarus,15,,0
+Belarus,16,,0
+Belarus,17,,0
+Belarus,18,,0
+Belarus,19,,0
+Belarus,20,,0
+Belarus,21,,0
+Belarus,22,,0
+Belarus,23,,0
+Belarus,24,,0
+Belarus,25,,0
+Belarus,26,,0
+Belarus,27,,0
+Belarus,28,,0
+Belarus,29,,0
+Belarus,30,,0
+Belarus,31,,0
+Belarus,32,,0
+Belarus,33,,0
+Belarus,34,,0
+Belarus,35,,0
+Belarus,36,,0
+Belarus,37,,0
+Belarus,38,,1
+Belarus,39,,1
+Belarus,40,,1
+Belarus,41,,1
+Belarus,43,,4
+Belarus,44,,6
+Belarus,50,,9
+Belarus,51,,12
+Belarus,52,,21
+Belarus,55,16000,27
+Belarus,56,,36
+Belarus,57,,36
+Belarus,58,,46
+Belarus,59,,57
+Belgium,-21,,0
+Belgium,-20,,0
+Belgium,-19,,0
+Belgium,-18,,0
+Belgium,-17,,0
+Belgium,-16,,0
+Belgium,-15,,0
+Belgium,-14,,0
+Belgium,-13,,0
+Belgium,-12,,0
+Belgium,-11,,0
+Belgium,-10,,0
+Belgium,-9,,0
+Belgium,-8,,0
+Belgium,-7,,0
+Belgium,-6,,0
+Belgium,-5,,0
+Belgium,-4,,0
+Belgium,-3,,0
+Belgium,-2,,0
+Belgium,-1,,0
+Belgium,0,,0
+Belgium,1,,0
+Belgium,2,,0
+Belgium,3,,0
+Belgium,4,,0
+Belgium,5,,0
+Belgium,6,,0
+Belgium,7,,0
+Belgium,8,,0
+Belgium,9,,0
+Belgium,10,,0
+Belgium,11,,0
+Belgium,12,,0
+Belgium,13,,0
+Belgium,14,,1
+Belgium,15,,1
+Belgium,16,,1
+Belgium,17,,1
+Belgium,18,,1
+Belgium,19,,1
+Belgium,20,,1
+Belgium,21,,1
+Belgium,22,,1
+Belgium,23,,1
+Belgium,24,,1
+Belgium,25,,1
+Belgium,26,,1
+Belgium,27,,1
+Belgium,28,,1
+Belgium,29,,1
+Belgium,30,,1
+Belgium,31,,1
+Belgium,32,,1
+Belgium,33,,1
+Belgium,34,,1
+Belgium,35,,1
+Belgium,36,,1
+Belgium,37,,1
+Belgium,38,,1
+Belgium,39,,1
+Belgium,40,,1
+Belgium,41,,2
+Belgium,42,,8
+Belgium,43,,13
+Belgium,44,,23
+Belgium,45,,50
+Belgium,46,,109
+Belgium,47,,169
+Belgium,48,,200
+Belgium,49,,239
+Belgium,50,,267
+Belgium,51,,314
+Belgium,52,,399
+Belgium,53,,559
+Belgium,54,,689
+Belgium,55,,886
+Belgium,56,,1085
+Belgium,57,18360,1243
+Belgium,58,,1486
+Belgium,59,,1795
+Benin,56,,1
+Benin,57,,1
+Benin,58,,1
+Benin,59,,2
+Bermuda,59,,2
+Bhutan,45,,1
+Bhutan,52,,1
+Bhutan,54,,1
+Bhutan,56,,1
+Bhutan,57,,1
+Bhutan,58,,1
+Bhutan,59,,1
+Bolivia,51,,2
+Bolivia,52,,3
+Bolivia,53,,10
+Bolivia,54,,10
+Bolivia,56,,11
+Bolivia,57,,12
+Bolivia,58,,12
+Bolivia,59,,15
+Bosnia and Herzegovina,45,,2
+Bosnia and Herzegovina,51,,3
+Bosnia and Herzegovina,52,,3
+Bosnia and Herzegovina,55,,18
+Bosnia and Herzegovina,56,,21
+Bosnia and Herzegovina,57,,21
+Bosnia and Herzegovina,58,,36
+Bosnia and Herzegovina,59,,44
+Brazil,-21,,0
+Brazil,-20,,0
+Brazil,-19,,0
+Brazil,-18,,0
+Brazil,-17,,0
+Brazil,-16,,0
+Brazil,-15,,0
+Brazil,-14,,0
+Brazil,-13,,0
+Brazil,-12,,0
+Brazil,-11,,0
+Brazil,-10,,0
+Brazil,-9,,0
+Brazil,-8,,0
+Brazil,-7,,0
+Brazil,-6,,0
+Brazil,-5,,0
+Brazil,-4,,0
+Brazil,-3,,0
+Brazil,-2,,0
+Brazil,-1,,0
+Brazil,0,,0
+Brazil,1,,0
+Brazil,2,,0
+Brazil,3,,0
+Brazil,4,,0
+Brazil,5,,0
+Brazil,6,,0
+Brazil,7,,0
+Brazil,8,,0
+Brazil,9,,0
+Brazil,10,,0
+Brazil,11,,0
+Brazil,12,,0
+Brazil,13,,0
+Brazil,14,,0
+Brazil,15,,0
+Brazil,16,,0
+Brazil,17,,0
+Brazil,18,,0
+Brazil,19,,0
+Brazil,20,,0
+Brazil,21,,0
+Brazil,22,,0
+Brazil,23,,0
+Brazil,24,,0
+Brazil,25,,0
+Brazil,26,,0
+Brazil,27,,0
+Brazil,28,,0
+Brazil,29,,0
+Brazil,30,,0
+Brazil,31,,0
+Brazil,32,,0
+Brazil,33,,0
+Brazil,34,,0
+Brazil,35,,0
+Brazil,36,,1
+Brazil,37,,1
+Brazil,38,,1
+Brazil,39,,1
+Brazil,40,,2
+Brazil,41,,2
+Brazil,44,,3
+Brazil,45,,8
+Brazil,46,,13
+Brazil,47,,13
+Brazil,48,,25
+Brazil,50,,34
+Brazil,51,,52
+Brazil,52,2927,77
+Brazil,53,,98
+Brazil,54,,121
+Brazil,55,,200
+Brazil,56,,234
+Brazil,57,,291
+Brazil,58,,428
+Brazil,59,,621
+Brunei,49,,1
+Brunei,51,,11
+Brunei,52,,25
+Brunei,53,,37
+Brunei,54,,40
+Brunei,55,,50
+Brunei,56,,54
+Brunei,57,,56
+Brunei,58,,68
+Brunei,59,,73
+Bulgaria,47,,2
+Bulgaria,48,,4
+Bulgaria,51,,7
+Bulgaria,52,,23
+Bulgaria,53,,31
+Bulgaria,54,,41
+Bulgaria,55,,51
+Bulgaria,56,,62
+Bulgaria,57,,81
+Bulgaria,58,,92
+Bulgaria,59,,105
+Burkina Faso,50,,2
+Burkina Faso,51,,2
+Burkina Faso,54,,3
+Burkina Faso,55,,3
+Burkina Faso,56,,20
+Burkina Faso,57,,20
+Burkina Faso,58,,26
+Burkina Faso,59,,33
+Cambodia,-21,,0
+Cambodia,-20,,0
+Cambodia,-19,,0
+Cambodia,-18,,0
+Cambodia,-17,,0
+Cambodia,-16,,0
+Cambodia,-15,,0
+Cambodia,-14,,0
+Cambodia,-13,,0
+Cambodia,-12,,0
+Cambodia,-11,,0
+Cambodia,-10,,0
+Cambodia,-9,,0
+Cambodia,-8,,0
+Cambodia,-7,,0
+Cambodia,-6,,0
+Cambodia,-5,,0
+Cambodia,-4,,0
+Cambodia,-3,,0
+Cambodia,-2,,0
+Cambodia,-1,,0
+Cambodia,0,,0
+Cambodia,1,,0
+Cambodia,2,,0
+Cambodia,3,,0
+Cambodia,4,,0
+Cambodia,5,,0
+Cambodia,6,,0
+Cambodia,7,,1
+Cambodia,8,,1
+Cambodia,9,,1
+Cambodia,10,,1
+Cambodia,11,,1
+Cambodia,12,,1
+Cambodia,13,,1
+Cambodia,14,,1
+Cambodia,15,,1
+Cambodia,16,,1
+Cambodia,17,,1
+Cambodia,18,,1
+Cambodia,19,,1
+Cambodia,20,,1
+Cambodia,21,,1
+Cambodia,22,,1
+Cambodia,23,,1
+Cambodia,24,,1
+Cambodia,25,,1
+Cambodia,26,,1
+Cambodia,27,,1
+Cambodia,28,,1
+Cambodia,29,,1
+Cambodia,30,,1
+Cambodia,31,,1
+Cambodia,32,,1
+Cambodia,33,,1
+Cambodia,34,,1
+Cambodia,35,,1
+Cambodia,36,,1
+Cambodia,37,,1
+Cambodia,38,,1
+Cambodia,39,,1
+Cambodia,40,,1
+Cambodia,41,,1
+Cambodia,47,,2
+Cambodia,51,,3
+Cambodia,52,,5
+Cambodia,54,,7
+Cambodia,55,,12
+Cambodia,56,,24
+Cambodia,57,,24
+Cambodia,58,,24
+Cambodia,59,,24
+Cameroon,46,,1
+Cameroon,48,,2
+Cameroon,54,,3
+Cameroon,55,,4
+Cameroon,56,,4
+Cameroon,57,,10
+Cameroon,58,,10
+Cameroon,59,,14
+Canada,-21,,0
+Canada,-20,,0
+Canada,-19,,0
+Canada,-18,,0
+Canada,-17,,0
+Canada,-16,,0
+Canada,-15,,0
+Canada,-14,,0
+Canada,-13,,0
+Canada,-12,,0
+Canada,-11,,0
+Canada,-10,,0
+Canada,-9,,0
+Canada,-8,,0
+Canada,-7,,0
+Canada,-6,,0
+Canada,-5,,0
+Canada,-4,,0
+Canada,-3,,0
+Canada,-2,,0
+Canada,-1,,0
+Canada,0,,0
+Canada,1,,0
+Canada,2,,0
+Canada,3,,0
+Canada,4,,0
+Canada,5,,1
+Canada,6,,1
+Canada,7,,2
+Canada,8,,3
+Canada,9,,3
+Canada,10,,3
+Canada,11,,4
+Canada,12,,4
+Canada,13,,4
+Canada,14,,4
+Canada,15,,5
+Canada,16,,5
+Canada,17,,7
+Canada,18,,7
+Canada,19,,7
+Canada,20,,7
+Canada,21,,7
+Canada,22,,7
+Canada,23,,7
+Canada,24,,7
+Canada,25,,8
+Canada,26,,8
+Canada,27,,8
+Canada,28,,8
+Canada,29,,8
+Canada,30,,8
+Canada,31,,9
+Canada,32,,9
+Canada,33,,9
+Canada,34,,9
+Canada,35,,11
+Canada,36,,11
+Canada,37,,12
+Canada,38,,14
+Canada,39,,16
+Canada,40,,20
+Canada,41,,24
+Canada,42,,27
+Canada,43,,30
+Canada,44,,33
+Canada,45,,45
+Canada,46,,51
+Canada,47,,57
+Canada,48,,62
+Canada,49,,77
+Canada,50,,93
+Canada,51,,103
+Canada,52,,138
+Canada,53,,176
+Canada,54,,244
+Canada,55,,304
+Canada,56,,424
+Canada,57,,569
+Canada,58,,690
+Canada,59,113121,846
+Canada - Alberta,58,17013,
+Canada - British Columbia,52,6326,
+Canada - National lab,58,54956,
+Canada - New Brunswick,59,520,
+Canada - Northwest Territories,58,222,
+Canada - Nova Scotia,59,1561,
+Canada - Ontario,59,19511,
+Canada - Quebec,58,10451,
+Canada - Saskatchewan,58,2561,
+Cayman Islands,59,,1
+Central African Republic,55,,1
+Central African Republic,56,,1
+Central African Republic,57,,1
+Central African Republic,58,,1
+Central African Republic,59,,1
+Chad,59,,1
+Chile,43,,1
+Chile,44,,3
+Chile,45,,4
+Chile,46,,5
+Chile,48,,10
+Chile,49,,13
+Chile,50,,17
+Chile,51,,23
+Chile,52,,33
+Chile,53,,43
+Chile,54,,61
+Chile,55,,75
+Chile,56,,156
+Chile,57,,201
+Chile,58,,238
+Chile,59,,342
+China,-21,,27
+China,-20,,27
+China,-19,,27
+China,-18,,44
+China,-17,,44
+China,-16,,59
+China,-15,,59
+China,-14,,59
+China,-13,,59
+China,-12,,59
+China,-11,,59
+China,-10,,59
+China,-9,,59
+China,-8,,59
+China,-7,,59
+China,-6,,59
+China,-5,,59
+China,-4,,63
+China,-3,,80
+China,-2,,216
+China,-1,,235
+China,0,,386
+China,1,,526
+China,2,,623
+China,3,,882
+China,4,,1323
+China,5,,1988
+China,6,,2775
+China,7,,4528
+China,8,,5994
+China,9,,7734
+China,10,,9714
+China,11,,11809
+China,12,,14399
+China,13,,17211
+China,14,,20448
+China,15,,24320
+China,16,,28047
+China,17,,31207
+China,18,,34625
+China,19,,37232
+China,20,,40206
+China,21,,42696
+China,22,,44724
+China,23,,59865
+China,24,,64021
+China,25,,66559
+China,26,,68566
+China,27,,70618
+China,28,,72508
+China,29,,74258
+China,30,,74652
+China,31,,75543
+China,32,,76369
+China,33,,77016
+China,34,,77234
+China,35,,77749
+China,36,,78159
+China,37,,78598
+China,38,,78927
+China,39,,79355
+China,40,,79929
+China,41,,80134
+China,42,,80261
+China,43,,80380
+China,44,,80497
+China,45,,80667
+China,46,,80768
+China,47,,80814
+China,48,,80859
+China,49,,80879
+China,50,,80908
+China,51,,80932
+China,52,,80954
+China,53,,80973
+China,54,,80995
+China,55,,81020
+China,56,,81130
+China,57,,81163
+China,58,,81238
+China,59,,81337
+China - Guangdong,34,320000,77234
+Colombia,46,,1
+Colombia,49,,3
+Colombia,51,,9
+Colombia,53,,16
+Colombia,54,,34
+Colombia,55,,45
+Colombia,56,,57
+Colombia,57,,65
+Colombia,58,,102
+Colombia,59,4103,128
+Congo,55,,1
+Congo,56,,1
+Congo,57,,1
+Congo,58,,3
+Congo,59,,3
+Costa Rica,46,,1
+Costa Rica,48,,5
+Costa Rica,49,,9
+Costa Rica,50,,13
+Costa Rica,51,,22
+Costa Rica,52,,23
+Costa Rica,53,,26
+Costa Rica,54,,27
+Costa Rica,55,,35
+Costa Rica,56,,41
+Costa Rica,57,,50
+Costa Rica,58,1039,69
+Costa Rica,59,,87
+Cote d'Ivoire,51,,1
+Cote d'Ivoire,54,,4
+Cote d'Ivoire,55,,4
+Cote d'Ivoire,56,,5
+Cote d'Ivoire,57,,5
+Cote d'Ivoire,58,,6
+Cote d'Ivoire,59,,9
+Croatia,-21,,0
+Croatia,-20,,0
+Croatia,-19,,0
+Croatia,-18,,0
+Croatia,-17,,0
+Croatia,-16,,0
+Croatia,-15,,0
+Croatia,-14,,0
+Croatia,-13,,0
+Croatia,-12,,0
+Croatia,-11,,0
+Croatia,-10,,0
+Croatia,-9,,0
+Croatia,-8,,0
+Croatia,-7,,0
+Croatia,-6,,0
+Croatia,-5,,0
+Croatia,-4,,0
+Croatia,-3,,0
+Croatia,-2,,0
+Croatia,-1,,0
+Croatia,0,,0
+Croatia,1,,0
+Croatia,2,,0
+Croatia,3,,0
+Croatia,4,,0
+Croatia,5,,0
+Croatia,6,,0
+Croatia,7,,0
+Croatia,8,,0
+Croatia,9,,0
+Croatia,10,,0
+Croatia,11,,0
+Croatia,12,,0
+Croatia,13,,0
+Croatia,14,,0
+Croatia,15,,0
+Croatia,16,,0
+Croatia,17,,0
+Croatia,18,,0
+Croatia,19,,0
+Croatia,20,,0
+Croatia,21,,0
+Croatia,22,,0
+Croatia,23,,0
+Croatia,24,,0
+Croatia,25,,0
+Croatia,26,,0
+Croatia,27,,0
+Croatia,28,,0
+Croatia,29,,0
+Croatia,30,,0
+Croatia,31,,0
+Croatia,32,,0
+Croatia,33,,0
+Croatia,34,,0
+Croatia,35,,0
+Croatia,36,,1
+Croatia,37,,2
+Croatia,38,,3
+Croatia,39,,5
+Croatia,40,,5
+Croatia,41,,7
+Croatia,42,,8
+Croatia,43,,9
+Croatia,45,,10
+Croatia,46,,11
+Croatia,47,,12
+Croatia,50,,13
+Croatia,51,,16
+Croatia,52,,25
+Croatia,53,,31
+Croatia,54,,37
+Croatia,55,,48
+Croatia,56,,56
+Croatia,57,,69
+Croatia,58,1264,81
+Croatia,59,,104
+Cuba,51,,3
+Cuba,53,,4
+Cuba,54,,4
+Cuba,57,,7
+Cuba,58,,11
+Cuba,59,,16
+Cyprus,49,,2
+Cyprus,51,,6
+Cyprus,53,,14
+Cyprus,54,,21
+Cyprus,55,,30
+Cyprus,56,,40
+Cyprus,57,,40
+Cyprus,58,,58
+Cyprus,59,,58
+Czech Republic,-21,,0
+Czech Republic,-20,,0
+Czech Republic,-19,,0
+Czech Republic,-18,,0
+Czech Republic,-17,,0
+Czech Republic,-16,,0
+Czech Republic,-15,,0
+Czech Republic,-14,,0
+Czech Republic,-13,,0
+Czech Republic,-12,,0
+Czech Republic,-11,,0
+Czech Republic,-10,,0
+Czech Republic,-9,,0
+Czech Republic,-8,,0
+Czech Republic,-7,,0
+Czech Republic,-6,,0
+Czech Republic,-5,,0
+Czech Republic,-4,,0
+Czech Republic,-3,,0
+Czech Republic,-2,,0
+Czech Republic,-1,,0
+Czech Republic,0,,0
+Czech Republic,1,,0
+Czech Republic,2,,0
+Czech Republic,3,,0
+Czech Republic,4,,0
+Czech Republic,5,,0
+Czech Republic,6,,0
+Czech Republic,7,,0
+Czech Republic,8,,0
+Czech Republic,9,,0
+Czech Republic,10,,0
+Czech Republic,11,,0
+Czech Republic,12,,0
+Czech Republic,13,,0
+Czech Republic,14,,0
+Czech Republic,15,,0
+Czech Republic,16,,0
+Czech Republic,17,,0
+Czech Republic,18,,0
+Czech Republic,19,,0
+Czech Republic,20,,0
+Czech Republic,21,,0
+Czech Republic,22,,0
+Czech Republic,23,,0
+Czech Republic,24,,0
+Czech Republic,25,,0
+Czech Republic,26,,0
+Czech Republic,27,,0
+Czech Republic,28,,0
+Czech Republic,29,,0
+Czech Republic,30,,0
+Czech Republic,31,,0
+Czech Republic,32,,0
+Czech Republic,33,,0
+Czech Republic,34,,0
+Czech Republic,35,,0
+Czech Republic,36,,0
+Czech Republic,37,,0
+Czech Republic,38,,0
+Czech Republic,39,,0
+Czech Republic,40,,0
+Czech Republic,41,,3
+Czech Republic,42,,5
+Czech Republic,43,,5
+Czech Republic,44,,8
+Czech Republic,45,,12
+Czech Republic,46,,19
+Czech Republic,47,,26
+Czech Republic,48,,32
+Czech Republic,49,,40
+Czech Republic,50,,63
+Czech Republic,51,,94
+Czech Republic,52,,116
+Czech Republic,53,,150
+Czech Republic,54,,214
+Czech Republic,55,,298
+Czech Republic,56,,344
+Czech Republic,57,,434
+Czech Republic,58,,522
+Czech Republic,59,11619,694
+Democratic Republic of Congo,50,,1
+Democratic Republic of Congo,53,,2
+Democratic Republic of Congo,54,,2
+Democratic Republic of Congo,55,,2
+Democratic Republic of Congo,56,,3
+Democratic Republic of Congo,57,,3
+Democratic Republic of Congo,58,,14
+Democratic Republic of Congo,59,,14
+Denmark,-21,,0
+Denmark,-20,,0
+Denmark,-19,,0
+Denmark,-18,,0
+Denmark,-17,,0
+Denmark,-16,,0
+Denmark,-15,,0
+Denmark,-14,,0
+Denmark,-13,,0
+Denmark,-12,,0
+Denmark,-11,,0
+Denmark,-10,,0
+Denmark,-9,,0
+Denmark,-8,,0
+Denmark,-7,,0
+Denmark,-6,,0
+Denmark,-5,,0
+Denmark,-4,,0
+Denmark,-3,,0
+Denmark,-2,,0
+Denmark,-1,,0
+Denmark,0,,0
+Denmark,1,,0
+Denmark,2,,0
+Denmark,3,,0
+Denmark,4,,0
+Denmark,5,,0
+Denmark,6,,0
+Denmark,7,,0
+Denmark,8,,0
+Denmark,9,,0
+Denmark,10,,0
+Denmark,11,,0
+Denmark,12,,0
+Denmark,13,,0
+Denmark,14,,0
+Denmark,15,,0
+Denmark,16,,0
+Denmark,17,,0
+Denmark,18,,0
+Denmark,19,,0
+Denmark,20,,0
+Denmark,21,,0
+Denmark,22,,0
+Denmark,23,,0
+Denmark,24,,0
+Denmark,25,,0
+Denmark,26,,0
+Denmark,27,,0
+Denmark,28,,0
+Denmark,29,,0
+Denmark,30,,0
+Denmark,31,,0
+Denmark,32,,0
+Denmark,33,,0
+Denmark,34,,0
+Denmark,35,,0
+Denmark,36,,0
+Denmark,37,,1
+Denmark,38,,1
+Denmark,39,,2
+Denmark,40,,3
+Denmark,41,,4
+Denmark,42,,5
+Denmark,43,,8
+Denmark,44,,10
+Denmark,45,,20
+Denmark,46,,23
+Denmark,47,,31
+Denmark,48,,38
+Denmark,49,,113
+Denmark,50,,264
+Denmark,51,,516
+Denmark,52,,676
+Denmark,53,,804
+Denmark,54,,827
+Denmark,55,,875
+Denmark,56,,932
+Denmark,57,,1024
+Denmark,58,,1115
+Denmark,59,10730,1151
+Djibouti,58,,1
+Djibouti,59,,1
+Dominican Republic,-21,,0
+Dominican Republic,-20,,0
+Dominican Republic,-19,,0
+Dominican Republic,-18,,0
+Dominican Republic,-17,,0
+Dominican Republic,-16,,0
+Dominican Republic,-15,,0
+Dominican Republic,-14,,0
+Dominican Republic,-13,,0
+Dominican Republic,-12,,0
+Dominican Republic,-11,,0
+Dominican Republic,-10,,0
+Dominican Republic,-9,,0
+Dominican Republic,-8,,0
+Dominican Republic,-7,,0
+Dominican Republic,-6,,0
+Dominican Republic,-5,,0
+Dominican Republic,-4,,0
+Dominican Republic,-3,,0
+Dominican Republic,-2,,0
+Dominican Republic,-1,,0
+Dominican Republic,0,,0
+Dominican Republic,1,,0
+Dominican Republic,2,,0
+Dominican Republic,3,,0
+Dominican Republic,4,,0
+Dominican Republic,5,,0
+Dominican Republic,6,,0
+Dominican Republic,7,,0
+Dominican Republic,8,,0
+Dominican Republic,9,,0
+Dominican Republic,10,,0
+Dominican Republic,11,,0
+Dominican Republic,12,,0
+Dominican Republic,13,,0
+Dominican Republic,14,,0
+Dominican Republic,15,,0
+Dominican Republic,16,,0
+Dominican Republic,17,,0
+Dominican Republic,18,,0
+Dominican Republic,19,,0
+Dominican Republic,20,,0
+Dominican Republic,21,,0
+Dominican Republic,22,,0
+Dominican Republic,23,,0
+Dominican Republic,24,,0
+Dominican Republic,25,,0
+Dominican Republic,26,,0
+Dominican Republic,27,,0
+Dominican Republic,28,,0
+Dominican Republic,29,,0
+Dominican Republic,30,,0
+Dominican Republic,31,,0
+Dominican Republic,32,,0
+Dominican Republic,33,,0
+Dominican Republic,34,,0
+Dominican Republic,35,,0
+Dominican Republic,36,,0
+Dominican Republic,37,,0
+Dominican Republic,38,,0
+Dominican Republic,39,,0
+Dominican Republic,40,,0
+Dominican Republic,41,,1
+Dominican Republic,46,,2
+Dominican Republic,49,,5
+Dominican Republic,53,,11
+Dominican Republic,54,,11
+Dominican Republic,55,,11
+Dominican Republic,56,,11
+Dominican Republic,57,,11
+Dominican Republic,58,,21
+Dominican Republic,59,,21
+Ecuador,-21,,0
+Ecuador,-20,,0
+Ecuador,-19,,0
+Ecuador,-18,,0
+Ecuador,-17,,0
+Ecuador,-16,,0
+Ecuador,-15,,0
+Ecuador,-14,,0
+Ecuador,-13,,0
+Ecuador,-12,,0
+Ecuador,-11,,0
+Ecuador,-10,,0
+Ecuador,-9,,0
+Ecuador,-8,,0
+Ecuador,-7,,0
+Ecuador,-6,,0
+Ecuador,-5,,0
+Ecuador,-4,,0
+Ecuador,-3,,0
+Ecuador,-2,,0
+Ecuador,-1,,0
+Ecuador,0,,0
+Ecuador,1,,0
+Ecuador,2,,0
+Ecuador,3,,0
+Ecuador,4,,0
+Ecuador,5,,0
+Ecuador,6,,0
+Ecuador,7,,0
+Ecuador,8,,0
+Ecuador,9,,0
+Ecuador,10,,0
+Ecuador,11,,0
+Ecuador,12,,0
+Ecuador,13,,0
+Ecuador,14,,0
+Ecuador,15,,0
+Ecuador,16,,0
+Ecuador,17,,0
+Ecuador,18,,0
+Ecuador,19,,0
+Ecuador,20,,0
+Ecuador,21,,0
+Ecuador,22,,0
+Ecuador,23,,0
+Ecuador,24,,0
+Ecuador,25,,0
+Ecuador,26,,0
+Ecuador,27,,0
+Ecuador,28,,0
+Ecuador,29,,0
+Ecuador,30,,0
+Ecuador,31,,0
+Ecuador,32,,0
+Ecuador,33,,0
+Ecuador,34,,0
+Ecuador,35,,0
+Ecuador,36,,0
+Ecuador,37,,0
+Ecuador,38,,0
+Ecuador,39,,0
+Ecuador,40,,1
+Ecuador,41,,6
+Ecuador,42,,7
+Ecuador,44,,10
+Ecuador,45,,13
+Ecuador,48,,14
+Ecuador,49,,15
+Ecuador,50,,17
+Ecuador,53,,23
+Ecuador,54,,28
+Ecuador,55,,37
+Ecuador,56,,58
+Ecuador,57,,111
+Ecuador,58,,168
+Ecuador,59,,199
+Egypt,-21,,0
+Egypt,-20,,0
+Egypt,-19,,0
+Egypt,-18,,0
+Egypt,-17,,0
+Egypt,-16,,0
+Egypt,-15,,0
+Egypt,-14,,0
+Egypt,-13,,0
+Egypt,-12,,0
+Egypt,-11,,0
+Egypt,-10,,0
+Egypt,-9,,0
+Egypt,-8,,0
+Egypt,-7,,0
+Egypt,-6,,0
+Egypt,-5,,0
+Egypt,-4,,0
+Egypt,-3,,0
+Egypt,-2,,0
+Egypt,-1,,0
+Egypt,0,,0
+Egypt,1,,0
+Egypt,2,,0
+Egypt,3,,0
+Egypt,4,,0
+Egypt,5,,0
+Egypt,6,,0
+Egypt,7,,0
+Egypt,8,,0
+Egypt,9,,0
+Egypt,10,,0
+Egypt,11,,0
+Egypt,12,,0
+Egypt,13,,0
+Egypt,14,,0
+Egypt,15,,0
+Egypt,16,,0
+Egypt,17,,0
+Egypt,18,,0
+Egypt,19,,0
+Egypt,20,,0
+Egypt,21,,0
+Egypt,22,,0
+Egypt,23,,0
+Egypt,24,,0
+Egypt,25,,1
+Egypt,26,,1
+Egypt,27,,1
+Egypt,28,,1
+Egypt,29,,1
+Egypt,30,,1
+Egypt,31,,1
+Egypt,32,,1
+Egypt,33,,1
+Egypt,34,,1
+Egypt,35,,1
+Egypt,36,,1
+Egypt,37,,1
+Egypt,38,,1
+Egypt,39,,1
+Egypt,40,,1
+Egypt,41,,2
+Egypt,45,,3
+Egypt,46,,15
+Egypt,48,,49
+Egypt,49,,55
+Egypt,50,,59
+Egypt,51,,60
+Egypt,52,,80
+Egypt,53,,93
+Egypt,54,,93
+Egypt,55,,110
+Egypt,56,,126
+Egypt,57,,166
+Egypt,58,,196
+Egypt,59,,210
+El Salvador,58,,1
+El Salvador,59,,1
+Equatorial Guinea,54,,1
+Equatorial Guinea,55,,1
+Equatorial Guinea,56,,1
+Equatorial Guinea,57,,1
+Equatorial Guinea,58,,3
+Equatorial Guinea,59,,4
+Estonia,-21,,0
+Estonia,-20,,0
+Estonia,-19,,0
+Estonia,-18,,0
+Estonia,-17,,0
+Estonia,-16,,0
+Estonia,-15,,0
+Estonia,-14,,0
+Estonia,-13,,0
+Estonia,-12,,0
+Estonia,-11,,0
+Estonia,-10,,0
+Estonia,-9,,0
+Estonia,-8,,0
+Estonia,-7,,0
+Estonia,-6,,0
+Estonia,-5,,0
+Estonia,-4,,0
+Estonia,-3,,0
+Estonia,-2,,0
+Estonia,-1,,0
+Estonia,0,,0
+Estonia,1,,0
+Estonia,2,,0
+Estonia,3,,0
+Estonia,4,,0
+Estonia,5,,0
+Estonia,6,,0
+Estonia,7,,0
+Estonia,8,,0
+Estonia,9,,0
+Estonia,10,,0
+Estonia,11,,0
+Estonia,12,,0
+Estonia,13,,0
+Estonia,14,,0
+Estonia,15,,0
+Estonia,16,,0
+Estonia,17,,0
+Estonia,18,,0
+Estonia,19,,0
+Estonia,20,,0
+Estonia,21,,0
+Estonia,22,,0
+Estonia,23,,0
+Estonia,24,,0
+Estonia,25,,0
+Estonia,26,,0
+Estonia,27,,0
+Estonia,28,,0
+Estonia,29,,0
+Estonia,30,,0
+Estonia,31,,0
+Estonia,32,,0
+Estonia,33,,0
+Estonia,34,,0
+Estonia,35,,0
+Estonia,36,,0
+Estonia,37,,0
+Estonia,38,,1
+Estonia,39,,1
+Estonia,40,,1
+Estonia,41,,1
+Estonia,43,,2
+Estonia,45,,5
+Estonia,46,,10
+Estonia,50,,13
+Estonia,51,,16
+Estonia,52,,27
+Estonia,53,,79
+Estonia,54,,115
+Estonia,55,,171
+Estonia,56,,205
+Estonia,57,,225
+Estonia,58,,258
+Estonia,59,2504,267
+Ethiopia,53,,1
+Ethiopia,54,,1
+Ethiopia,55,,4
+Ethiopia,56,,5
+Ethiopia,57,,5
+Ethiopia,58,,6
+Ethiopia,59,,7
+Faeroe Islands,59,1641,72
+Fiji,59,,1
+Finland,-21,,0
+Finland,-20,,0
+Finland,-19,,0
+Finland,-18,,0
+Finland,-17,,0
+Finland,-16,,0
+Finland,-15,,0
+Finland,-14,,0
+Finland,-13,,0
+Finland,-12,,0
+Finland,-11,,0
+Finland,-10,,0
+Finland,-9,,0
+Finland,-8,,0
+Finland,-7,,0
+Finland,-6,,0
+Finland,-5,,0
+Finland,-4,,0
+Finland,-3,,0
+Finland,-2,,0
+Finland,-1,,0
+Finland,0,,0
+Finland,1,,0
+Finland,2,,0
+Finland,3,,0
+Finland,4,,0
+Finland,5,,0
+Finland,6,,0
+Finland,7,,0
+Finland,8,,0
+Finland,9,,1
+Finland,10,,1
+Finland,11,,1
+Finland,12,,1
+Finland,13,,1
+Finland,14,,1
+Finland,15,,1
+Finland,16,,1
+Finland,17,,1
+Finland,18,,1
+Finland,19,,1
+Finland,20,,1
+Finland,21,,1
+Finland,22,,1
+Finland,23,,1
+Finland,24,,1
+Finland,25,,1
+Finland,26,,1
+Finland,27,,1
+Finland,28,,1
+Finland,29,,1
+Finland,30,,1
+Finland,31,,1
+Finland,32,,1
+Finland,33,,1
+Finland,34,,1
+Finland,35,,1
+Finland,36,,1
+Finland,37,,2
+Finland,38,,2
+Finland,39,,3
+Finland,40,,3
+Finland,41,,6
+Finland,43,,7
+Finland,45,,12
+Finland,46,,19
+Finland,48,,30
+Finland,49,,40
+Finland,51,,59
+Finland,52,,155
+Finland,54,,210
+Finland,55,,267
+Finland,56,,272
+Finland,57,,319
+Finland,58,3000,369
+Finland,59,,400
+France,-21,,0
+France,-20,,0
+France,-19,,0
+France,-18,,0
+France,-17,,0
+France,-16,,0
+France,-15,,0
+France,-14,,0
+France,-13,,0
+France,-12,,0
+France,-11,,0
+France,-10,,0
+France,-9,,0
+France,-8,,0
+France,-7,,0
+France,-6,,0
+France,-5,,0
+France,-4,,0
+France,-3,,0
+France,-2,,0
+France,-1,,0
+France,0,,0
+France,1,,0
+France,2,,0
+France,3,,0
+France,4,,3
+France,5,,3
+France,6,,3
+France,7,,3
+France,8,,4
+France,9,,5
+France,10,,6
+France,11,,6
+France,12,,6
+France,13,,6
+France,14,,6
+France,15,,6
+France,16,,6
+France,17,,6
+France,18,,11
+France,19,,11
+France,20,,11
+France,21,,11
+France,22,,11
+France,23,,11
+France,24,,11
+France,25,,11
+France,26,,11
+France,27,,12
+France,28,,12
+France,29,,12
+France,30,,12
+France,31,,12
+France,32,,12
+France,33,,12
+France,34,,12
+France,35,,12
+France,36,,14
+France,37,,17
+France,38,,38
+France,39,,57
+France,40,,100
+France,41,,130
+France,42,,178
+France,43,,212
+France,44,,285
+France,45,,423
+France,46,,613
+France,47,,716
+France,48,,1126
+France,49,,1412
+France,50,,1784
+France,51,,2281
+France,52,,2876
+France,53,,3661
+France,54,36747,4499
+France,55,,5423
+France,56,,6633
+France,57,,7730
+France,58,,9134
+France,59,,10995
+French Polynesia,58,,3
+French Polynesia,59,,3
+Gabon,52,,1
+Gabon,54,,1
+Gabon,55,,1
+Gabon,56,,1
+Gabon,57,,1
+Gabon,58,,3
+Gabon,59,,3
+Gambia,57,,1
+Gambia,58,,1
+Gambia,59,,1
+Georgia,-21,,0
+Georgia,-20,,0
+Georgia,-19,,0
+Georgia,-18,,0
+Georgia,-17,,0
+Georgia,-16,,0
+Georgia,-15,,0
+Georgia,-14,,0
+Georgia,-13,,0
+Georgia,-12,,0
+Georgia,-11,,0
+Georgia,-10,,0
+Georgia,-9,,0
+Georgia,-8,,0
+Georgia,-7,,0
+Georgia,-6,,0
+Georgia,-5,,0
+Georgia,-4,,0
+Georgia,-3,,0
+Georgia,-2,,0
+Georgia,-1,,0
+Georgia,0,,0
+Georgia,1,,0
+Georgia,2,,0
+Georgia,3,,0
+Georgia,4,,0
+Georgia,5,,0
+Georgia,6,,0
+Georgia,7,,0
+Georgia,8,,0
+Georgia,9,,0
+Georgia,10,,0
+Georgia,11,,0
+Georgia,12,,0
+Georgia,13,,0
+Georgia,14,,0
+Georgia,15,,0
+Georgia,16,,0
+Georgia,17,,0
+Georgia,18,,0
+Georgia,19,,0
+Georgia,20,,0
+Georgia,21,,0
+Georgia,22,,0
+Georgia,23,,0
+Georgia,24,,0
+Georgia,25,,0
+Georgia,26,,0
+Georgia,27,,0
+Georgia,28,,0
+Georgia,29,,0
+Georgia,30,,0
+Georgia,31,,0
+Georgia,32,,0
+Georgia,33,,0
+Georgia,34,,0
+Georgia,35,,0
+Georgia,36,,0
+Georgia,37,,1
+Georgia,38,,1
+Georgia,39,,2
+Georgia,40,,3
+Georgia,41,,3
+Georgia,44,,3
+Georgia,45,,9
+Georgia,47,,12
+Georgia,48,,13
+Georgia,49,,15
+Georgia,50,,23
+Georgia,51,,24
+Georgia,52,,25
+Georgia,53,,30
+Georgia,54,,30
+Georgia,55,,30
+Georgia,56,,33
+Georgia,57,,34
+Georgia,58,,34
+Georgia,59,,40
+Germany,-21,,0
+Germany,-20,,0
+Germany,-19,,0
+Germany,-18,,0
+Germany,-17,,0
+Germany,-16,,0
+Germany,-15,,0
+Germany,-14,,0
+Germany,-13,,0
+Germany,-12,,0
+Germany,-11,,0
+Germany,-10,,0
+Germany,-9,,0
+Germany,-8,,0
+Germany,-7,,0
+Germany,-6,,0
+Germany,-5,,0
+Germany,-4,,0
+Germany,-3,,0
+Germany,-2,,0
+Germany,-1,,0
+Germany,0,,0
+Germany,1,,0
+Germany,2,,0
+Germany,3,,0
+Germany,4,,0
+Germany,5,,0
+Germany,6,,0
+Germany,7,,1
+Germany,8,,4
+Germany,9,,4
+Germany,10,,5
+Germany,11,,7
+Germany,12,,8
+Germany,13,,9
+Germany,14,,11
+Germany,15,,11
+Germany,16,,11
+Germany,17,,12
+Germany,18,,13
+Germany,19,,13
+Germany,20,,13
+Germany,21,,13
+Germany,22,,15
+Germany,23,,15
+Germany,24,,15
+Germany,25,,15
+Germany,26,,15
+Germany,27,,15
+Germany,28,,15
+Germany,29,,15
+Germany,30,,15
+Germany,31,,15
+Germany,32,,15
+Germany,33,,15
+Germany,34,,15
+Germany,35,,15
+Germany,36,,17
+Germany,37,,21
+Germany,38,,47
+Germany,39,,57
+Germany,40,,111
+Germany,41,,129
+Germany,42,,157
+Germany,43,,196
+Germany,44,,262
+Germany,45,,400
+Germany,46,,684
+Germany,47,,847
+Germany,48,,902
+Germany,49,,1139
+Germany,50,,1296
+Germany,51,,1567
+Germany,52,,2369
+Germany,53,,3062
+Germany,54,167000,3795
+Germany,55,,4838
+Germany,56,,6012
+Germany,57,,7156
+Germany,58,,8198
+Germany,59,,14138
+Ghana,52,,2
+Ghana,54,,2
+Ghana,55,,2
+Ghana,56,,6
+Ghana,57,,6
+Ghana,58,,7
+Ghana,59,,11
+Gibraltar,59,,10
+Greece,-21,,0
+Greece,-20,,0
+Greece,-19,,0
+Greece,-18,,0
+Greece,-17,,0
+Greece,-16,,0
+Greece,-15,,0
+Greece,-14,,0
+Greece,-13,,0
+Greece,-12,,0
+Greece,-11,,0
+Greece,-10,,0
+Greece,-9,,0
+Greece,-8,,0
+Greece,-7,,0
+Greece,-6,,0
+Greece,-5,,0
+Greece,-4,,0
+Greece,-3,,0
+Greece,-2,,0
+Greece,-1,,0
+Greece,0,,0
+Greece,1,,0
+Greece,2,,0
+Greece,3,,0
+Greece,4,,0
+Greece,5,,0
+Greece,6,,0
+Greece,7,,0
+Greece,8,,0
+Greece,9,,0
+Greece,10,,0
+Greece,11,,0
+Greece,12,,0
+Greece,13,,0
+Greece,14,,0
+Greece,15,,0
+Greece,16,,0
+Greece,17,,0
+Greece,18,,0
+Greece,19,,0
+Greece,20,,0
+Greece,21,,0
+Greece,22,,0
+Greece,23,,0
+Greece,24,,0
+Greece,25,,0
+Greece,26,,0
+Greece,27,,0
+Greece,28,,0
+Greece,29,,0
+Greece,30,,0
+Greece,31,,0
+Greece,32,,0
+Greece,33,,0
+Greece,34,,0
+Greece,35,,0
+Greece,36,,0
+Greece,37,,1
+Greece,38,,3
+Greece,39,,4
+Greece,40,,7
+Greece,41,,7
+Greece,44,,10
+Greece,45,,32
+Greece,46,,45
+Greece,47,,66
+Greece,48,,73
+Greece,49,,84
+Greece,50,,90
+Greece,51,,99
+Greece,52,,133
+Greece,53,,190
+Greece,54,,228
+Greece,55,,331
+Greece,56,,352
+Greece,57,,387
+Greece,58,,418
+Greece,59,,464
+Greenland,59,,2
+Guam,58,,3
+Guatemala,54,,1
+Guatemala,55,,1
+Guatemala,56,,6
+Guatemala,57,,6
+Guatemala,58,,8
+Guatemala,59,,9
+Guernsey,59,,1
+Guinea,53,,1
+Guinea,54,,1
+Guinea,56,,1
+Guinea,57,,1
+Guinea,58,,1
+Guinea,59,,1
+Guyana,52,,1
+Guyana,55,,4
+Guyana,56,,4
+Guyana,57,,4
+Guyana,58,,5
+Guyana,59,,5
+Haiti,59,,2
+Honduras,51,,2
+Honduras,53,,3
+Honduras,55,,6
+Honduras,56,,8
+Honduras,57,,9
+Honduras,58,,12
+Honduras,59,,24
+Hong Kong,44,5271,
+Hungary,44,,2
+Hungary,46,,4
+Hungary,47,,7
+Hungary,48,,8
+Hungary,49,,9
+Hungary,50,,12
+Hungary,51,,13
+Hungary,52,,16
+Hungary,53,,25
+Hungary,54,,31
+Hungary,55,,39
+Hungary,56,,50
+Hungary,57,,50
+Hungary,58,,73
+Hungary,59,3007,85
+Iceland,-21,,0
+Iceland,-20,,0
+Iceland,-19,,0
+Iceland,-18,,0
+Iceland,-17,,0
+Iceland,-16,,0
+Iceland,-15,,0
+Iceland,-14,,0
+Iceland,-13,,0
+Iceland,-12,,0
+Iceland,-11,,0
+Iceland,-10,,0
+Iceland,-9,,0
+Iceland,-8,,0
+Iceland,-7,,0
+Iceland,-6,,0
+Iceland,-5,,0
+Iceland,-4,,0
+Iceland,-3,,0
+Iceland,-2,,0
+Iceland,-1,,0
+Iceland,0,,0
+Iceland,1,,0
+Iceland,2,,0
+Iceland,3,,0
+Iceland,4,,0
+Iceland,5,,0
+Iceland,6,,0
+Iceland,7,,0
+Iceland,8,,0
+Iceland,9,,0
+Iceland,10,,0
+Iceland,11,,0
+Iceland,12,,0
+Iceland,13,,0
+Iceland,14,,0
+Iceland,15,,0
+Iceland,16,,0
+Iceland,17,,0
+Iceland,18,,0
+Iceland,19,,0
+Iceland,20,,0
+Iceland,21,,0
+Iceland,22,,0
+Iceland,23,,0
+Iceland,24,,0
+Iceland,25,,0
+Iceland,26,,0
+Iceland,27,,0
+Iceland,28,,0
+Iceland,29,,0
+Iceland,30,,0
+Iceland,31,,0
+Iceland,32,,0
+Iceland,33,,0
+Iceland,34,,0
+Iceland,35,,0
+Iceland,36,,0
+Iceland,37,,0
+Iceland,38,,0
+Iceland,39,,1
+Iceland,40,,1
+Iceland,41,,3
+Iceland,42,,6
+Iceland,43,,16
+Iceland,44,,26
+Iceland,45,,35
+Iceland,46,,43
+Iceland,47,,53
+Iceland,48,,55
+Iceland,49,,65
+Iceland,50,,70
+Iceland,51,,85
+Iceland,52,,117
+Iceland,53,,117
+Iceland,54,,138
+Iceland,55,,178
+Iceland,56,,199
+Iceland,57,,247
+Iceland,58,,250
+Iceland,59,9189,330
+India,-21,,0
+India,-20,,0
+India,-19,,0
+India,-18,,0
+India,-17,,0
+India,-16,,0
+India,-15,,0
+India,-14,,0
+India,-13,,0
+India,-12,,0
+India,-11,,0
+India,-10,,0
+India,-9,,0
+India,-8,,0
+India,-7,,0
+India,-6,,0
+India,-5,,0
+India,-4,,0
+India,-3,,0
+India,-2,,0
+India,-1,,0
+India,0,,0
+India,1,,0
+India,2,,0
+India,3,,0
+India,4,,0
+India,5,,0
+India,6,,0
+India,7,,0
+India,8,,0
+India,9,,1
+India,10,,1
+India,11,,1
+India,12,,2
+India,13,,2
+India,14,,3
+India,15,,3
+India,16,,3
+India,17,,3
+India,18,,3
+India,19,,3
+India,20,,3
+India,21,,3
+India,22,,3
+India,23,,3
+India,24,,3
+India,25,,3
+India,26,,3
+India,27,,3
+India,28,,3
+India,29,,3
+India,30,,3
+India,31,,3
+India,32,,3
+India,33,,3
+India,34,,3
+India,35,,3
+India,36,,3
+India,37,,3
+India,38,,3
+India,39,,3
+India,40,,3
+India,41,,3
+India,42,,5
+India,43,,6
+India,44,,28
+India,45,,29
+India,46,,31
+India,47,,34
+India,49,,44
+India,50,,50
+India,51,,73
+India,52,,75
+India,53,,83
+India,54,,90
+India,55,,93
+India,56,,125
+India,57,,137
+India,58,,165
+India,59,14514,191
+Indonesia,-21,,0
+Indonesia,-20,,0
+Indonesia,-19,,0
+Indonesia,-18,,0
+Indonesia,-17,,0
+Indonesia,-16,,0
+Indonesia,-15,,0
+Indonesia,-14,,0
+Indonesia,-13,,0
+Indonesia,-12,,0
+Indonesia,-11,,0
+Indonesia,-10,,0
+Indonesia,-9,,0
+Indonesia,-8,,0
+Indonesia,-7,,0
+Indonesia,-6,,0
+Indonesia,-5,,0
+Indonesia,-4,,0
+Indonesia,-3,,0
+Indonesia,-2,,0
+Indonesia,-1,,0
+Indonesia,0,,0
+Indonesia,1,,0
+Indonesia,2,,0
+Indonesia,3,,0
+Indonesia,4,,0
+Indonesia,5,,0
+Indonesia,6,,0
+Indonesia,7,,0
+Indonesia,8,,0
+Indonesia,9,,0
+Indonesia,10,,0
+Indonesia,11,,0
+Indonesia,12,,0
+Indonesia,13,,0
+Indonesia,14,,0
+Indonesia,15,,0
+Indonesia,16,,0
+Indonesia,17,,0
+Indonesia,18,,0
+Indonesia,19,,0
+Indonesia,20,,0
+Indonesia,21,,0
+Indonesia,22,,0
+Indonesia,23,,0
+Indonesia,24,,0
+Indonesia,25,,0
+Indonesia,26,,0
+Indonesia,27,,0
+Indonesia,28,,0
+Indonesia,29,,0
+Indonesia,30,,0
+Indonesia,31,,0
+Indonesia,32,,0
+Indonesia,33,,0
+Indonesia,34,,0
+Indonesia,35,,0
+Indonesia,36,,0
+Indonesia,37,,0
+Indonesia,38,,0
+Indonesia,39,,0
+Indonesia,40,,0
+Indonesia,41,,2
+Indonesia,46,,4
+Indonesia,48,,6
+Indonesia,50,,19
+Indonesia,51,,34
+Indonesia,53,,69
+Indonesia,54,,96
+Indonesia,55,,117
+Indonesia,56,,134
+Indonesia,57,,172
+Indonesia,58,,172
+Indonesia,59,2028,227
+International,-21,,0
+International,-20,,0
+International,-19,,0
+International,-18,,0
+International,-17,,0
+International,-16,,0
+International,-15,,0
+International,-14,,0
+International,-13,,0
+International,-12,,0
+International,-11,,0
+International,-10,,0
+International,-9,,0
+International,-8,,0
+International,-7,,0
+International,-6,,0
+International,-5,,0
+International,-4,,0
+International,-3,,0
+International,-2,,0
+International,-1,,0
+International,0,,0
+International,1,,0
+International,2,,0
+International,3,,0
+International,4,,0
+International,5,,0
+International,6,,0
+International,7,,0
+International,8,,0
+International,9,,0
+International,10,,0
+International,11,,0
+International,12,,0
+International,13,,0
+International,14,,0
+International,15,,10
+International,16,,20
+International,17,,61
+International,18,,64
+International,19,,64
+International,20,,70
+International,21,,135
+International,22,,174
+International,23,,174
+International,24,,221
+International,25,,221
+International,26,,355
+International,27,,355
+International,28,,454
+International,29,,542
+International,30,,621
+International,31,,634
+International,32,,634
+International,33,,634
+International,34,,691
+International,35,,691
+International,36,,691
+International,37,,705
+International,38,,705
+International,39,,705
+International,40,,705
+International,41,,705
+International,49,,696
+Iran,-21,,0
+Iran,-20,,0
+Iran,-19,,0
+Iran,-18,,0
+Iran,-17,,0
+Iran,-16,,0
+Iran,-15,,0
+Iran,-14,,0
+Iran,-13,,0
+Iran,-12,,0
+Iran,-11,,0
+Iran,-10,,0
+Iran,-9,,0
+Iran,-8,,0
+Iran,-7,,0
+Iran,-6,,0
+Iran,-5,,0
+Iran,-4,,0
+Iran,-3,,0
+Iran,-2,,0
+Iran,-1,,0
+Iran,0,,0
+Iran,1,,0
+Iran,2,,0
+Iran,3,,0
+Iran,4,,0
+Iran,5,,0
+Iran,6,,0
+Iran,7,,0
+Iran,8,,0
+Iran,9,,0
+Iran,10,,0
+Iran,11,,0
+Iran,12,,0
+Iran,13,,0
+Iran,14,,0
+Iran,15,,0
+Iran,16,,0
+Iran,17,,0
+Iran,18,,0
+Iran,19,,0
+Iran,20,,0
+Iran,21,,0
+Iran,22,,0
+Iran,23,,0
+Iran,24,,0
+Iran,25,,0
+Iran,26,,0
+Iran,27,,0
+Iran,28,,0
+Iran,29,,0
+Iran,30,,2
+Iran,31,,5
+Iran,32,,18
+Iran,33,,28
+Iran,34,,43
+Iran,35,,61
+Iran,36,,95
+Iran,37,,139
+Iran,38,,245
+Iran,39,,388
+Iran,40,,593
+Iran,41,,978
+Iran,42,,1501
+Iran,43,,2336
+Iran,44,,2922
+Iran,45,,3513
+Iran,46,,4747
+Iran,47,,5823
+Iran,48,,6566
+Iran,49,,7161
+Iran,50,,8042
+Iran,51,,9000
+Iran,52,,10075
+Iran,53,80000,11364
+Iran,54,,12729
+Iran,55,,13938
+Iran,56,,14991
+Iran,57,,16169
+Iran,58,,17361
+Iran,59,,18407
+Iraq,-21,,0
+Iraq,-20,,0
+Iraq,-19,,0
+Iraq,-18,,0
+Iraq,-17,,0
+Iraq,-16,,0
+Iraq,-15,,0
+Iraq,-14,,0
+Iraq,-13,,0
+Iraq,-12,,0
+Iraq,-11,,0
+Iraq,-10,,0
+Iraq,-9,,0
+Iraq,-8,,0
+Iraq,-7,,0
+Iraq,-6,,0
+Iraq,-5,,0
+Iraq,-4,,0
+Iraq,-3,,0
+Iraq,-2,,0
+Iraq,-1,,0
+Iraq,0,,0
+Iraq,1,,0
+Iraq,2,,0
+Iraq,3,,0
+Iraq,4,,0
+Iraq,5,,0
+Iraq,6,,0
+Iraq,7,,0
+Iraq,8,,0
+Iraq,9,,0
+Iraq,10,,0
+Iraq,11,,0
+Iraq,12,,0
+Iraq,13,,0
+Iraq,14,,0
+Iraq,15,,0
+Iraq,16,,0
+Iraq,17,,0
+Iraq,18,,0
+Iraq,19,,0
+Iraq,20,,0
+Iraq,21,,0
+Iraq,22,,0
+Iraq,23,,0
+Iraq,24,,0
+Iraq,25,,0
+Iraq,26,,0
+Iraq,27,,0
+Iraq,28,,0
+Iraq,29,,0
+Iraq,30,,0
+Iraq,31,,0
+Iraq,32,,0
+Iraq,33,,0
+Iraq,34,,0
+Iraq,35,,1
+Iraq,36,,5
+Iraq,37,,5
+Iraq,38,,6
+Iraq,39,,7
+Iraq,40,,13
+Iraq,41,,19
+Iraq,42,,21
+Iraq,43,,26
+Iraq,44,,31
+Iraq,45,,38
+Iraq,47,,54
+Iraq,48,,61
+Iraq,50,,61
+Iraq,51,,70
+Iraq,52,,74
+Iraq,53,,85
+Iraq,54,,85
+Iraq,55,,124
+Iraq,56,,124
+Iraq,57,,154
+Iraq,58,,164
+Iraq,59,,177
+Ireland,-21,,0
+Ireland,-20,,0
+Ireland,-19,,0
+Ireland,-18,,0
+Ireland,-17,,0
+Ireland,-16,,0
+Ireland,-15,,0
+Ireland,-14,,0
+Ireland,-13,,0
+Ireland,-12,,0
+Ireland,-11,,0
+Ireland,-10,,0
+Ireland,-9,,0
+Ireland,-8,,0
+Ireland,-7,,0
+Ireland,-6,,0
+Ireland,-5,,0
+Ireland,-4,,0
+Ireland,-3,,0
+Ireland,-2,,0
+Ireland,-1,,0
+Ireland,0,,0
+Ireland,1,,0
+Ireland,2,,0
+Ireland,3,,0
+Ireland,4,,0
+Ireland,5,,0
+Ireland,6,,0
+Ireland,7,,0
+Ireland,8,,0
+Ireland,9,,0
+Ireland,10,,0
+Ireland,11,,0
+Ireland,12,,0
+Ireland,13,,0
+Ireland,14,,0
+Ireland,15,,0
+Ireland,16,,0
+Ireland,17,,0
+Ireland,18,,0
+Ireland,19,,0
+Ireland,20,,0
+Ireland,21,,0
+Ireland,22,,0
+Ireland,23,,0
+Ireland,24,,0
+Ireland,25,,0
+Ireland,26,,0
+Ireland,27,,0
+Ireland,28,,0
+Ireland,29,,0
+Ireland,30,,0
+Ireland,31,,0
+Ireland,32,,0
+Ireland,33,,0
+Ireland,34,,0
+Ireland,35,,0
+Ireland,36,,0
+Ireland,37,,0
+Ireland,38,,0
+Ireland,39,,0
+Ireland,40,,1
+Ireland,41,,1
+Ireland,43,,2
+Ireland,44,,6
+Ireland,45,,13
+Ireland,46,,18
+Ireland,47,,19
+Ireland,48,,21
+Ireland,50,,35
+Ireland,51,,43
+Ireland,52,,70
+Ireland,53,,91
+Ireland,54,,129
+Ireland,55,,169
+Ireland,56,6600,223
+Ireland,57,,292
+Ireland,58,,366
+Ireland,59,,557
+Israel,-21,,0
+Israel,-20,,0
+Israel,-19,,0
+Israel,-18,,0
+Israel,-17,,0
+Israel,-16,,0
+Israel,-15,,0
+Israel,-14,,0
+Israel,-13,,0
+Israel,-12,,0
+Israel,-11,,0
+Israel,-10,,0
+Israel,-9,,0
+Israel,-8,,0
+Israel,-7,,0
+Israel,-6,,0
+Israel,-5,,0
+Israel,-4,,0
+Israel,-3,,0
+Israel,-2,,0
+Israel,-1,,0
+Israel,0,,0
+Israel,1,,0
+Israel,2,,0
+Israel,3,,0
+Israel,4,,0
+Israel,5,,0
+Israel,6,,0
+Israel,7,,0
+Israel,8,,0
+Israel,9,,0
+Israel,10,,0
+Israel,11,,0
+Israel,12,,0
+Israel,13,,0
+Israel,14,,0
+Israel,15,,0
+Israel,16,,0
+Israel,17,,0
+Israel,18,,0
+Israel,19,,0
+Israel,20,,0
+Israel,21,,0
+Israel,22,,0
+Israel,23,,0
+Israel,24,,0
+Israel,25,,0
+Israel,26,,0
+Israel,27,,0
+Israel,28,,0
+Israel,29,,0
+Israel,30,,0
+Israel,31,,0
+Israel,32,,1
+Israel,33,,1
+Israel,34,,2
+Israel,35,,2
+Israel,36,,2
+Israel,37,,2
+Israel,38,,3
+Israel,39,,7
+Israel,40,,7
+Israel,41,,10
+Israel,44,,15
+Israel,45,,17
+Israel,46,,19
+Israel,47,,25
+Israel,48,,39
+Israel,50,,70
+Israel,51,,82
+Israel,52,,96
+Israel,53,,116
+Israel,54,,178
+Israel,55,,250
+Israel,56,,260
+Israel,57,10864,427
+Israel,58,,433
+Israel,59,,677
+Italy,-21,,0
+Italy,-20,,0
+Italy,-19,,0
+Italy,-18,,0
+Italy,-17,,0
+Italy,-16,,0
+Italy,-15,,0
+Italy,-14,,0
+Italy,-13,,0
+Italy,-12,,0
+Italy,-11,,0
+Italy,-10,,0
+Italy,-9,,0
+Italy,-8,,0
+Italy,-7,,0
+Italy,-6,,0
+Italy,-5,,0
+Italy,-4,,0
+Italy,-3,,0
+Italy,-2,,0
+Italy,-1,,0
+Italy,0,,0
+Italy,1,,0
+Italy,2,,0
+Italy,3,,0
+Italy,4,,0
+Italy,5,,0
+Italy,6,,0
+Italy,7,,0
+Italy,8,,0
+Italy,9,,0
+Italy,10,,3
+Italy,11,,3
+Italy,12,,3
+Italy,13,,3
+Italy,14,,3
+Italy,15,,3
+Italy,16,,3
+Italy,17,,3
+Italy,18,,3
+Italy,19,,3
+Italy,20,,3
+Italy,21,,3
+Italy,22,,3
+Italy,23,,3
+Italy,24,,3
+Italy,25,,3
+Italy,26,,3
+Italy,27,,3
+Italy,28,,3
+Italy,29,,3
+Italy,30,,3
+Italy,31,,3
+Italy,32,,17
+Italy,33,,79
+Italy,34,,132
+Italy,35,,229
+Italy,36,,322
+Italy,37,,400
+Italy,38,,650
+Italy,39,,888
+Italy,40,,1128
+Italy,41,,1689
+Italy,42,,1835
+Italy,43,,2502
+Italy,44,,3089
+Italy,45,,3858
+Italy,46,,4636
+Italy,47,,5883
+Italy,48,,7375
+Italy,49,,9172
+Italy,50,,10149
+Italy,51,,12462
+Italy,52,,15113
+Italy,53,,17660
+Italy,54,,17750
+Italy,55,,23980
+Italy,56,,27980
+Italy,57,,31506
+Italy,58,,35713
+Italy,59,206886,41035
+Jamaica,51,,2
+Jamaica,52,,6
+Jamaica,53,,8
+Jamaica,55,,10
+Jamaica,56,,10
+Jamaica,57,,13
+Jamaica,58,,15
+Jamaica,59,,16
+Japan,-21,,0
+Japan,-20,,0
+Japan,-19,,0
+Japan,-18,,0
+Japan,-17,,0
+Japan,-16,,0
+Japan,-15,,0
+Japan,-14,,0
+Japan,-13,,0
+Japan,-12,,0
+Japan,-11,,0
+Japan,-10,,0
+Japan,-9,,0
+Japan,-8,,0
+Japan,-7,,0
+Japan,-6,,1
+Japan,-5,,1
+Japan,-4,,1
+Japan,-3,,1
+Japan,-2,,1
+Japan,-1,,1
+Japan,0,,1
+Japan,1,,1
+Japan,2,,1
+Japan,3,,2
+Japan,4,,2
+Japan,5,,3
+Japan,6,,3
+Japan,7,,4
+Japan,8,,7
+Japan,9,,11
+Japan,10,,14
+Japan,11,,15
+Japan,12,,19
+Japan,13,,20
+Japan,14,,20
+Japan,15,,25
+Japan,16,,25
+Japan,17,,25
+Japan,18,,25
+Japan,19,,25
+Japan,20,,25
+Japan,21,,25
+Japan,22,,25
+Japan,23,,29
+Japan,24,,30
+Japan,25,,38
+Japan,26,,52
+Japan,27,,59
+Japan,28,,59
+Japan,29,,66
+Japan,30,,84
+Japan,31,,93
+Japan,32,,105
+Japan,33,,132
+Japan,34,,144
+Japan,35,,144
+Japan,36,,164
+Japan,37,,186
+Japan,38,,210
+Japan,39,,230
+Japan,40,,239
+Japan,41,,254
+Japan,42,,254
+Japan,43,,268
+Japan,44,,317
+Japan,45,,349
+Japan,46,,408
+Japan,47,,455
+Japan,48,,488
+Japan,49,,514
+Japan,50,,568
+Japan,51,,619
+Japan,52,,675
+Japan,53,,737
+Japan,54,,780
+Japan,55,,814
+Japan,56,,824
+Japan,57,,829
+Japan,58,14901,873
+Japan,59,,950
+Jersey,59,,5
+Jordan,42,,1
+Jordan,47,,1
+Jordan,54,,1
+Jordan,55,,15
+Jordan,56,,16
+Jordan,57,,35
+Jordan,58,,52
+Jordan,59,,56
+Kazakhstan,54,,6
+Kazakhstan,55,,9
+Kazakhstan,56,,11
+Kazakhstan,57,,33
+Kazakhstan,58,,37
+Kazakhstan,59,,49
+Kenya,53,,1
+Kenya,54,,1
+Kenya,55,,3
+Kenya,56,,3
+Kenya,57,,4
+Kenya,58,,7
+Kenya,59,,7
+Kosovo,55,,2
+Kosovo,56,,2
+Kosovo,57,,19
+Kosovo,58,,19
+Kosovo,59,,21
+Kuwait,-21,,0
+Kuwait,-20,,0
+Kuwait,-19,,0
+Kuwait,-18,,0
+Kuwait,-17,,0
+Kuwait,-16,,0
+Kuwait,-15,,0
+Kuwait,-14,,0
+Kuwait,-13,,0
+Kuwait,-12,,0
+Kuwait,-11,,0
+Kuwait,-10,,0
+Kuwait,-9,,0
+Kuwait,-8,,0
+Kuwait,-7,,0
+Kuwait,-6,,0
+Kuwait,-5,,0
+Kuwait,-4,,0
+Kuwait,-3,,0
+Kuwait,-2,,0
+Kuwait,-1,,0
+Kuwait,0,,0
+Kuwait,1,,0
+Kuwait,2,,0
+Kuwait,3,,0
+Kuwait,4,,0
+Kuwait,5,,0
+Kuwait,6,,0
+Kuwait,7,,0
+Kuwait,8,,0
+Kuwait,9,,0
+Kuwait,10,,0
+Kuwait,11,,0
+Kuwait,12,,0
+Kuwait,13,,0
+Kuwait,14,,0
+Kuwait,15,,0
+Kuwait,16,,0
+Kuwait,17,,0
+Kuwait,18,,0
+Kuwait,19,,0
+Kuwait,20,,0
+Kuwait,21,,0
+Kuwait,22,,0
+Kuwait,23,,0
+Kuwait,24,,0
+Kuwait,25,,0
+Kuwait,26,,0
+Kuwait,27,,0
+Kuwait,28,,0
+Kuwait,29,,0
+Kuwait,30,,0
+Kuwait,31,,0
+Kuwait,32,,0
+Kuwait,33,,0
+Kuwait,34,,3
+Kuwait,35,,5
+Kuwait,36,,11
+Kuwait,37,,26
+Kuwait,38,,43
+Kuwait,39,,45
+Kuwait,40,,45
+Kuwait,41,,46
+Kuwait,42,,56
+Kuwait,45,,58
+Kuwait,47,,61
+Kuwait,48,,64
+Kuwait,49,,65
+Kuwait,50,,69
+Kuwait,51,,72
+Kuwait,52,,80
+Kuwait,53,,100
+Kuwait,54,,104
+Kuwait,55,,112
+Kuwait,56,,123
+Kuwait,57,,130
+Kuwait,58,,142
+Kuwait,59,,148
+Kyrgyzstan,52,1545,
+Kyrgyzstan,58,,3
+Kyrgyzstan,59,,6
+Latvia,42,,1
+Latvia,47,,2
+Latvia,48,,3
+Latvia,49,,6
+Latvia,50,,8
+Latvia,51,,10
+Latvia,52,,16
+Latvia,53,,19
+Latvia,54,,26
+Latvia,55,,31
+Latvia,56,,36
+Latvia,57,,61
+Latvia,58,,71
+Latvia,59,3205,86
+Lebanon,-21,,0
+Lebanon,-20,,0
+Lebanon,-19,,0
+Lebanon,-18,,0
+Lebanon,-17,,0
+Lebanon,-16,,0
+Lebanon,-15,,0
+Lebanon,-14,,0
+Lebanon,-13,,0
+Lebanon,-12,,0
+Lebanon,-11,,0
+Lebanon,-10,,0
+Lebanon,-9,,0
+Lebanon,-8,,0
+Lebanon,-7,,0
+Lebanon,-6,,0
+Lebanon,-5,,0
+Lebanon,-4,,0
+Lebanon,-3,,0
+Lebanon,-2,,0
+Lebanon,-1,,0
+Lebanon,0,,0
+Lebanon,1,,0
+Lebanon,2,,0
+Lebanon,3,,0
+Lebanon,4,,0
+Lebanon,5,,0
+Lebanon,6,,0
+Lebanon,7,,0
+Lebanon,8,,0
+Lebanon,9,,0
+Lebanon,10,,0
+Lebanon,11,,0
+Lebanon,12,,0
+Lebanon,13,,0
+Lebanon,14,,0
+Lebanon,15,,0
+Lebanon,16,,0
+Lebanon,17,,0
+Lebanon,18,,0
+Lebanon,19,,0
+Lebanon,20,,0
+Lebanon,21,,0
+Lebanon,22,,0
+Lebanon,23,,0
+Lebanon,24,,0
+Lebanon,25,,0
+Lebanon,26,,0
+Lebanon,27,,0
+Lebanon,28,,0
+Lebanon,29,,0
+Lebanon,30,,0
+Lebanon,31,,0
+Lebanon,32,,1
+Lebanon,33,,1
+Lebanon,34,,1
+Lebanon,35,,1
+Lebanon,36,,1
+Lebanon,37,,2
+Lebanon,38,,3
+Lebanon,39,,3
+Lebanon,40,,4
+Lebanon,41,,10
+Lebanon,42,,13
+Lebanon,45,,16
+Lebanon,46,,22
+Lebanon,48,,32
+Lebanon,49,,41
+Lebanon,50,,41
+Lebanon,51,,61
+Lebanon,52,,66
+Lebanon,54,,93
+Lebanon,55,,99
+Lebanon,56,,120
+Lebanon,57,,120
+Lebanon,58,,133
+Lebanon,59,,149
+Liberia,56,,1
+Liberia,57,,2
+Liberia,58,,2
+Liberia,59,,2
+Liechtenstein,44,,1
+Liechtenstein,51,,3
+Liechtenstein,52,,4
+Liechtenstein,53,,4
+Liechtenstein,54,,4
+Liechtenstein,55,,7
+Liechtenstein,56,,7
+Liechtenstein,57,,7
+Liechtenstein,58,,25
+Liechtenstein,59,,25
+Lithuania,-21,,0
+Lithuania,-20,,0
+Lithuania,-19,,0
+Lithuania,-18,,0
+Lithuania,-17,,0
+Lithuania,-16,,0
+Lithuania,-15,,0
+Lithuania,-14,,0
+Lithuania,-13,,0
+Lithuania,-12,,0
+Lithuania,-11,,0
+Lithuania,-10,,0
+Lithuania,-9,,0
+Lithuania,-8,,0
+Lithuania,-7,,0
+Lithuania,-6,,0
+Lithuania,-5,,0
+Lithuania,-4,,0
+Lithuania,-3,,0
+Lithuania,-2,,0
+Lithuania,-1,,0
+Lithuania,0,,0
+Lithuania,1,,0
+Lithuania,2,,0
+Lithuania,3,,0
+Lithuania,4,,0
+Lithuania,5,,0
+Lithuania,6,,0
+Lithuania,7,,0
+Lithuania,8,,0
+Lithuania,9,,0
+Lithuania,10,,0
+Lithuania,11,,0
+Lithuania,12,,0
+Lithuania,13,,0
+Lithuania,14,,0
+Lithuania,15,,0
+Lithuania,16,,0
+Lithuania,17,,0
+Lithuania,18,,0
+Lithuania,19,,0
+Lithuania,20,,0
+Lithuania,21,,0
+Lithuania,22,,0
+Lithuania,23,,0
+Lithuania,24,,0
+Lithuania,25,,0
+Lithuania,26,,0
+Lithuania,27,,0
+Lithuania,28,,0
+Lithuania,29,,0
+Lithuania,30,,0
+Lithuania,31,,0
+Lithuania,32,,0
+Lithuania,33,,0
+Lithuania,34,,0
+Lithuania,35,,0
+Lithuania,36,,0
+Lithuania,37,,0
+Lithuania,38,,1
+Lithuania,39,,1
+Lithuania,40,,1
+Lithuania,41,,1
+Lithuania,50,,3
+Lithuania,51,,3
+Lithuania,53,,6
+Lithuania,54,,9
+Lithuania,55,,14
+Lithuania,56,,17
+Lithuania,57,,25
+Lithuania,58,,33
+Lithuania,59,1154,48
+Luxembourg,-21,,0
+Luxembourg,-20,,0
+Luxembourg,-19,,0
+Luxembourg,-18,,0
+Luxembourg,-17,,0
+Luxembourg,-16,,0
+Luxembourg,-15,,0
+Luxembourg,-14,,0
+Luxembourg,-13,,0
+Luxembourg,-12,,0
+Luxembourg,-11,,0
+Luxembourg,-10,,0
+Luxembourg,-9,,0
+Luxembourg,-8,,0
+Luxembourg,-7,,0
+Luxembourg,-6,,0
+Luxembourg,-5,,0
+Luxembourg,-4,,0
+Luxembourg,-3,,0
+Luxembourg,-2,,0
+Luxembourg,-1,,0
+Luxembourg,0,,0
+Luxembourg,1,,0
+Luxembourg,2,,0
+Luxembourg,3,,0
+Luxembourg,4,,0
+Luxembourg,5,,0
+Luxembourg,6,,0
+Luxembourg,7,,0
+Luxembourg,8,,0
+Luxembourg,9,,0
+Luxembourg,10,,0
+Luxembourg,11,,0
+Luxembourg,12,,0
+Luxembourg,13,,0
+Luxembourg,14,,0
+Luxembourg,15,,0
+Luxembourg,16,,0
+Luxembourg,17,,0
+Luxembourg,18,,0
+Luxembourg,19,,0
+Luxembourg,20,,0
+Luxembourg,21,,0
+Luxembourg,22,,0
+Luxembourg,23,,0
+Luxembourg,24,,0
+Luxembourg,25,,0
+Luxembourg,26,,0
+Luxembourg,27,,0
+Luxembourg,28,,0
+Luxembourg,29,,0
+Luxembourg,30,,0
+Luxembourg,31,,0
+Luxembourg,32,,0
+Luxembourg,33,,0
+Luxembourg,34,,0
+Luxembourg,35,,0
+Luxembourg,36,,0
+Luxembourg,37,,0
+Luxembourg,38,,0
+Luxembourg,39,,0
+Luxembourg,40,,1
+Luxembourg,41,,1
+Luxembourg,46,,3
+Luxembourg,48,,5
+Luxembourg,50,,7
+Luxembourg,51,,7
+Luxembourg,52,,26
+Luxembourg,53,,38
+Luxembourg,55,,77
+Luxembourg,56,,81
+Luxembourg,57,,140
+Luxembourg,58,,210
+Luxembourg,59,,345
+Macedonia,-21,,0
+Macedonia,-20,,0
+Macedonia,-19,,0
+Macedonia,-18,,0
+Macedonia,-17,,0
+Macedonia,-16,,0
+Macedonia,-15,,0
+Macedonia,-14,,0
+Macedonia,-13,,0
+Macedonia,-12,,0
+Macedonia,-11,,0
+Macedonia,-10,,0
+Macedonia,-9,,0
+Macedonia,-8,,0
+Macedonia,-7,,0
+Macedonia,-6,,0
+Macedonia,-5,,0
+Macedonia,-4,,0
+Macedonia,-3,,0
+Macedonia,-2,,0
+Macedonia,-1,,0
+Macedonia,0,,0
+Macedonia,1,,0
+Macedonia,2,,0
+Macedonia,3,,0
+Macedonia,4,,0
+Macedonia,5,,0
+Macedonia,6,,0
+Macedonia,7,,0
+Macedonia,8,,0
+Macedonia,9,,0
+Macedonia,10,,0
+Macedonia,11,,0
+Macedonia,12,,0
+Macedonia,13,,0
+Macedonia,14,,0
+Macedonia,15,,0
+Macedonia,16,,0
+Macedonia,17,,0
+Macedonia,18,,0
+Macedonia,19,,0
+Macedonia,20,,0
+Macedonia,21,,0
+Macedonia,22,,0
+Macedonia,23,,0
+Macedonia,24,,0
+Macedonia,25,,0
+Macedonia,26,,0
+Macedonia,27,,0
+Macedonia,28,,0
+Macedonia,29,,0
+Macedonia,30,,0
+Macedonia,31,,0
+Macedonia,32,,0
+Macedonia,33,,0
+Macedonia,34,,0
+Macedonia,35,,0
+Macedonia,36,,0
+Macedonia,37,,1
+Macedonia,38,,1
+Macedonia,39,,1
+Macedonia,40,,1
+Macedonia,41,,1
+Macedonia,46,,3
+Macedonia,50,,7
+Macedonia,52,,9
+Macedonia,53,,13
+Macedonia,55,,13
+Macedonia,56,,19
+Macedonia,57,,31
+Macedonia,58,,42
+Macedonia,59,,48
+Malaysia,-21,,0
+Malaysia,-20,,0
+Malaysia,-19,,0
+Malaysia,-18,,0
+Malaysia,-17,,0
+Malaysia,-16,,0
+Malaysia,-15,,0
+Malaysia,-14,,0
+Malaysia,-13,,0
+Malaysia,-12,,0
+Malaysia,-11,,0
+Malaysia,-10,,0
+Malaysia,-9,,0
+Malaysia,-8,,0
+Malaysia,-7,,0
+Malaysia,-6,,0
+Malaysia,-5,,0
+Malaysia,-4,,0
+Malaysia,-3,,0
+Malaysia,-2,,0
+Malaysia,-1,,0
+Malaysia,0,,0
+Malaysia,1,,0
+Malaysia,2,,0
+Malaysia,3,,0
+Malaysia,4,,3
+Malaysia,5,,4
+Malaysia,6,,4
+Malaysia,7,,4
+Malaysia,8,,7
+Malaysia,9,,7
+Malaysia,10,,8
+Malaysia,11,,8
+Malaysia,12,,8
+Malaysia,13,,8
+Malaysia,14,,8
+Malaysia,15,,10
+Malaysia,16,,12
+Malaysia,17,,14
+Malaysia,18,,15
+Malaysia,19,,16
+Malaysia,20,,18
+Malaysia,21,,18
+Malaysia,22,,18
+Malaysia,23,,18
+Malaysia,24,,19
+Malaysia,25,,21
+Malaysia,26,,22
+Malaysia,27,,22
+Malaysia,28,,22
+Malaysia,29,,22
+Malaysia,30,,22
+Malaysia,31,,22
+Malaysia,32,,22
+Malaysia,33,,22
+Malaysia,34,,22
+Malaysia,35,,22
+Malaysia,36,,22
+Malaysia,37,,22
+Malaysia,38,,23
+Malaysia,39,,25
+Malaysia,40,,25
+Malaysia,41,,29
+Malaysia,43,,36
+Malaysia,44,,50
+Malaysia,45,,50
+Malaysia,46,,83
+Malaysia,47,,93
+Malaysia,48,,99
+Malaysia,49,,117
+Malaysia,50,,129
+Malaysia,51,,149
+Malaysia,52,,158
+Malaysia,53,,197
+Malaysia,54,,238
+Malaysia,55,,428
+Malaysia,56,,553
+Malaysia,57,,673
+Malaysia,58,,790
+Malaysia,59,13876,900
+Maldives,47,,2
+Maldives,48,,4
+Maldives,50,,6
+Maldives,51,,8
+Maldives,53,,9
+Maldives,54,,9
+Maldives,55,,13
+Maldives,56,,13
+Maldives,57,,13
+Maldives,58,,13
+Maldives,59,,13
+Malta,47,,3
+Malta,49,,4
+Malta,51,,6
+Malta,52,889,9
+Malta,53,,12
+Malta,54,,18
+Malta,55,,21
+Malta,56,,30
+Malta,57,,38
+Malta,58,,48
+Malta,59,,53
+Mauritania,54,,1
+Mauritania,55,,1
+Mauritania,56,,1
+Mauritania,57,,1
+Mauritania,58,,1
+Mauritania,59,,2
+Mauritius,59,,3
+Mexico,-21,,0
+Mexico,-20,,0
+Mexico,-19,,0
+Mexico,-18,,0
+Mexico,-17,,0
+Mexico,-16,,0
+Mexico,-15,,0
+Mexico,-14,,0
+Mexico,-13,,0
+Mexico,-12,,0
+Mexico,-11,,0
+Mexico,-10,,0
+Mexico,-9,,0
+Mexico,-8,,0
+Mexico,-7,,0
+Mexico,-6,,0
+Mexico,-5,,0
+Mexico,-4,,0
+Mexico,-3,,0
+Mexico,-2,,0
+Mexico,-1,,0
+Mexico,0,,0
+Mexico,1,,0
+Mexico,2,,0
+Mexico,3,,0
+Mexico,4,,0
+Mexico,5,,0
+Mexico,6,,0
+Mexico,7,,0
+Mexico,8,,0
+Mexico,9,,0
+Mexico,10,,0
+Mexico,11,,0
+Mexico,12,,0
+Mexico,13,,0
+Mexico,14,,0
+Mexico,15,,0
+Mexico,16,,0
+Mexico,17,,0
+Mexico,18,,0
+Mexico,19,,0
+Mexico,20,,0
+Mexico,21,,0
+Mexico,22,,0
+Mexico,23,,0
+Mexico,24,,0
+Mexico,25,,0
+Mexico,26,,0
+Mexico,27,,0
+Mexico,28,,0
+Mexico,29,,0
+Mexico,30,,0
+Mexico,31,,0
+Mexico,32,,0
+Mexico,33,,0
+Mexico,34,,0
+Mexico,35,,0
+Mexico,36,,0
+Mexico,37,,0
+Mexico,38,,0
+Mexico,39,,2
+Mexico,40,,4
+Mexico,41,,5
+Mexico,48,,7
+Mexico,49,278,
+Mexico,51,,11
+Mexico,52,,16
+Mexico,53,,26
+Mexico,54,,41
+Mexico,55,,53
+Mexico,56,,82
+Mexico,57,,93
+Mexico,58,,118
+Mexico,59,,164
+Moldova,47,,1
+Moldova,50,,3
+Moldova,51,,4
+Moldova,52,,6
+Moldova,53,,8
+Moldova,54,,20
+Moldova,55,,23
+Moldova,56,,29
+Moldova,57,,30
+Moldova,58,,36
+Moldova,59,,49
+Monaco,-21,,0
+Monaco,-20,,0
+Monaco,-19,,0
+Monaco,-18,,0
+Monaco,-17,,0
+Monaco,-16,,0
+Monaco,-15,,0
+Monaco,-14,,0
+Monaco,-13,,0
+Monaco,-12,,0
+Monaco,-11,,0
+Monaco,-10,,0
+Monaco,-9,,0
+Monaco,-8,,0
+Monaco,-7,,0
+Monaco,-6,,0
+Monaco,-5,,0
+Monaco,-4,,0
+Monaco,-3,,0
+Monaco,-2,,0
+Monaco,-1,,0
+Monaco,0,,0
+Monaco,1,,0
+Monaco,2,,0
+Monaco,3,,0
+Monaco,4,,0
+Monaco,5,,0
+Monaco,6,,0
+Monaco,7,,0
+Monaco,8,,0
+Monaco,9,,0
+Monaco,10,,0
+Monaco,11,,0
+Monaco,12,,0
+Monaco,13,,0
+Monaco,14,,0
+Monaco,15,,0
+Monaco,16,,0
+Monaco,17,,0
+Monaco,18,,0
+Monaco,19,,0
+Monaco,20,,0
+Monaco,21,,0
+Monaco,22,,0
+Monaco,23,,0
+Monaco,24,,0
+Monaco,25,,0
+Monaco,26,,0
+Monaco,27,,0
+Monaco,28,,0
+Monaco,29,,0
+Monaco,30,,0
+Monaco,31,,0
+Monaco,32,,0
+Monaco,33,,0
+Monaco,34,,0
+Monaco,35,,0
+Monaco,36,,0
+Monaco,37,,0
+Monaco,38,,0
+Monaco,39,,1
+Monaco,40,,1
+Monaco,41,,1
+Monaco,54,,3
+Monaco,55,,7
+Monaco,56,,9
+Monaco,57,,9
+Monaco,58,,9
+Monaco,59,,11
+Mongolia,49,,1
+Mongolia,54,,1
+Mongolia,57,,4
+Mongolia,58,,5
+Mongolia,59,,5
+Montenegro,57,,2
+Montenegro,58,,8
+Montenegro,59,,13
+Morocco,42,,1
+Morocco,45,,2
+Morocco,51,,5
+Morocco,52,,6
+Morocco,53,,7
+Morocco,54,,18
+Morocco,55,,28
+Morocco,56,,37
+Morocco,57,,44
+Morocco,58,,54
+Morocco,59,,63
+Myanmar,56,,0
+Namibia,54,,2
+Namibia,55,,2
+Namibia,56,,2
+Namibia,57,,2
+Namibia,58,,2
+Namibia,59,,2
+Nepal,-21,,0
+Nepal,-20,,0
+Nepal,-19,,0
+Nepal,-18,,0
+Nepal,-17,,0
+Nepal,-16,,0
+Nepal,-15,,0
+Nepal,-14,,0
+Nepal,-13,,0
+Nepal,-12,,0
+Nepal,-11,,0
+Nepal,-10,,0
+Nepal,-9,,0
+Nepal,-8,,0
+Nepal,-7,,0
+Nepal,-6,,0
+Nepal,-5,,0
+Nepal,-4,,0
+Nepal,-3,,0
+Nepal,-2,,0
+Nepal,-1,,0
+Nepal,0,,0
+Nepal,1,,0
+Nepal,2,,0
+Nepal,3,,0
+Nepal,4,,1
+Nepal,5,,1
+Nepal,6,,1
+Nepal,7,,1
+Nepal,8,,1
+Nepal,9,,1
+Nepal,10,,1
+Nepal,11,,1
+Nepal,12,,1
+Nepal,13,,1
+Nepal,14,,1
+Nepal,15,,1
+Nepal,16,,1
+Nepal,17,,1
+Nepal,18,,1
+Nepal,19,,1
+Nepal,20,,1
+Nepal,21,,1
+Nepal,22,,1
+Nepal,23,,1
+Nepal,24,,1
+Nepal,25,,1
+Nepal,26,,1
+Nepal,27,,1
+Nepal,28,,1
+Nepal,29,,1
+Nepal,30,,1
+Nepal,31,,1
+Nepal,32,,1
+Nepal,33,,1
+Nepal,34,,1
+Nepal,35,,1
+Nepal,36,,1
+Nepal,37,,1
+Nepal,38,,1
+Nepal,39,,1
+Nepal,40,,1
+Nepal,41,,1
+Nepal,54,,1
+Nepal,56,,1
+Nepal,57,,1
+Nepal,58,,1
+Nepal,59,,1
+Netherlands,-21,,0
+Netherlands,-20,,0
+Netherlands,-19,,0
+Netherlands,-18,,0
+Netherlands,-17,,0
+Netherlands,-16,,0
+Netherlands,-15,,0
+Netherlands,-14,,0
+Netherlands,-13,,0
+Netherlands,-12,,0
+Netherlands,-11,,0
+Netherlands,-10,,0
+Netherlands,-9,,0
+Netherlands,-8,,0
+Netherlands,-7,,0
+Netherlands,-6,,0
+Netherlands,-5,,0
+Netherlands,-4,,0
+Netherlands,-3,,0
+Netherlands,-2,,0
+Netherlands,-1,,0
+Netherlands,0,,0
+Netherlands,1,,0
+Netherlands,2,,0
+Netherlands,3,,0
+Netherlands,4,,0
+Netherlands,5,,0
+Netherlands,6,,0
+Netherlands,7,,0
+Netherlands,8,,0
+Netherlands,9,,0
+Netherlands,10,,0
+Netherlands,11,,0
+Netherlands,12,,0
+Netherlands,13,,0
+Netherlands,14,,0
+Netherlands,15,,0
+Netherlands,16,,0
+Netherlands,17,,0
+Netherlands,18,,0
+Netherlands,19,,0
+Netherlands,20,,0
+Netherlands,21,,0
+Netherlands,22,,0
+Netherlands,23,,0
+Netherlands,24,,0
+Netherlands,25,,0
+Netherlands,26,,0
+Netherlands,27,,0
+Netherlands,28,,0
+Netherlands,29,,0
+Netherlands,30,,0
+Netherlands,31,,0
+Netherlands,32,,0
+Netherlands,33,,0
+Netherlands,34,,0
+Netherlands,35,,0
+Netherlands,36,,0
+Netherlands,37,,0
+Netherlands,38,,1
+Netherlands,39,,2
+Netherlands,40,,7
+Netherlands,41,,13
+Netherlands,42,,18
+Netherlands,43,,28
+Netherlands,44,,38
+Netherlands,45,,82
+Netherlands,46,6000,128
+Netherlands,47,,188
+Netherlands,48,,265
+Netherlands,49,,321
+Netherlands,50,,382
+Netherlands,51,,503
+Netherlands,52,,614
+Netherlands,53,,804
+Netherlands,54,,959
+Netherlands,55,,1135
+Netherlands,56,,1413
+Netherlands,57,,1705
+Netherlands,58,,2051
+Netherlands,59,,2460
+Netherlands Antilles,59,,9
+New Zealand,-21,,0
+New Zealand,-20,,0
+New Zealand,-19,,0
+New Zealand,-18,,0
+New Zealand,-17,,0
+New Zealand,-16,,0
+New Zealand,-15,,0
+New Zealand,-14,,0
+New Zealand,-13,,0
+New Zealand,-12,,0
+New Zealand,-11,,0
+New Zealand,-10,,0
+New Zealand,-9,,0
+New Zealand,-8,,0
+New Zealand,-7,,0
+New Zealand,-6,,0
+New Zealand,-5,,0
+New Zealand,-4,,0
+New Zealand,-3,,0
+New Zealand,-2,,0
+New Zealand,-1,,0
+New Zealand,0,,0
+New Zealand,1,,0
+New Zealand,2,,0
+New Zealand,3,,0
+New Zealand,4,,0
+New Zealand,5,,0
+New Zealand,6,,0
+New Zealand,7,,0
+New Zealand,8,,0
+New Zealand,9,,0
+New Zealand,10,,0
+New Zealand,11,,0
+New Zealand,12,,0
+New Zealand,13,,0
+New Zealand,14,,0
+New Zealand,15,,0
+New Zealand,16,,0
+New Zealand,17,,0
+New Zealand,18,,0
+New Zealand,19,,0
+New Zealand,20,,0
+New Zealand,21,,0
+New Zealand,22,,0
+New Zealand,23,,0
+New Zealand,24,,0
+New Zealand,25,,0
+New Zealand,26,,0
+New Zealand,27,,0
+New Zealand,28,,0
+New Zealand,29,,0
+New Zealand,30,,0
+New Zealand,31,,0
+New Zealand,32,,0
+New Zealand,33,,0
+New Zealand,34,,0
+New Zealand,35,,0
+New Zealand,36,,0
+New Zealand,37,,0
+New Zealand,38,,1
+New Zealand,39,,1
+New Zealand,40,,1
+New Zealand,41,,1
+New Zealand,43,,2
+New Zealand,44,,3
+New Zealand,45,,4
+New Zealand,46,,5
+New Zealand,53,,6
+New Zealand,54,,8
+New Zealand,56,584,
+New Zealand,57,,20
+New Zealand,58,,28
+New Zealand,59,,39
+Nicaragua,58,,1
+Nicaragua,59,,1
+Nigeria,-21,,0
+Nigeria,-20,,0
+Nigeria,-19,,0
+Nigeria,-18,,0
+Nigeria,-17,,0
+Nigeria,-16,,0
+Nigeria,-15,,0
+Nigeria,-14,,0
+Nigeria,-13,,0
+Nigeria,-12,,0
+Nigeria,-11,,0
+Nigeria,-10,,0
+Nigeria,-9,,0
+Nigeria,-8,,0
+Nigeria,-7,,0
+Nigeria,-6,,0
+Nigeria,-5,,0
+Nigeria,-4,,0
+Nigeria,-3,,0
+Nigeria,-2,,0
+Nigeria,-1,,0
+Nigeria,0,,0
+Nigeria,1,,0
+Nigeria,2,,0
+Nigeria,3,,0
+Nigeria,4,,0
+Nigeria,5,,0
+Nigeria,6,,0
+Nigeria,7,,0
+Nigeria,8,,0
+Nigeria,9,,0
+Nigeria,10,,0
+Nigeria,11,,0
+Nigeria,12,,0
+Nigeria,13,,0
+Nigeria,14,,0
+Nigeria,15,,0
+Nigeria,16,,0
+Nigeria,17,,0
+Nigeria,18,,0
+Nigeria,19,,0
+Nigeria,20,,0
+Nigeria,21,,0
+Nigeria,22,,0
+Nigeria,23,,0
+Nigeria,24,,0
+Nigeria,25,,0
+Nigeria,26,,0
+Nigeria,27,,0
+Nigeria,28,,0
+Nigeria,29,,0
+Nigeria,30,,0
+Nigeria,31,,0
+Nigeria,32,,0
+Nigeria,33,,0
+Nigeria,34,,0
+Nigeria,35,,0
+Nigeria,36,,0
+Nigeria,37,,0
+Nigeria,38,,1
+Nigeria,39,,1
+Nigeria,40,,1
+Nigeria,41,,1
+Nigeria,49,,2
+Nigeria,54,,2
+Nigeria,55,,2
+Nigeria,56,,2
+Nigeria,57,,3
+Nigeria,58,,8
+Nigeria,59,,8
+Norway,-21,,0
+Norway,-20,,0
+Norway,-19,,0
+Norway,-18,,0
+Norway,-17,,0
+Norway,-16,,0
+Norway,-15,,0
+Norway,-14,,0
+Norway,-13,,0
+Norway,-12,,0
+Norway,-11,,0
+Norway,-10,,0
+Norway,-9,,0
+Norway,-8,,0
+Norway,-7,,0
+Norway,-6,,0
+Norway,-5,,0
+Norway,-4,,0
+Norway,-3,,0
+Norway,-2,,0
+Norway,-1,,0
+Norway,0,,0
+Norway,1,,0
+Norway,2,,0
+Norway,3,,0
+Norway,4,,0
+Norway,5,,0
+Norway,6,,0
+Norway,7,,0
+Norway,8,,0
+Norway,9,,0
+Norway,10,,0
+Norway,11,,0
+Norway,12,,0
+Norway,13,,0
+Norway,14,,0
+Norway,15,,0
+Norway,16,,0
+Norway,17,,0
+Norway,18,,0
+Norway,19,,0
+Norway,20,,0
+Norway,21,,0
+Norway,22,,0
+Norway,23,,0
+Norway,24,,0
+Norway,25,,0
+Norway,26,,0
+Norway,27,,0
+Norway,28,,0
+Norway,29,,0
+Norway,30,,0
+Norway,31,,0
+Norway,32,,0
+Norway,33,,0
+Norway,34,,0
+Norway,35,,0
+Norway,36,,0
+Norway,37,,1
+Norway,38,,4
+Norway,39,,6
+Norway,40,,15
+Norway,41,,19
+Norway,42,,25
+Norway,43,,33
+Norway,44,,56
+Norway,45,,86
+Norway,46,,113
+Norway,47,,147
+Norway,48,,169
+Norway,49,,192
+Norway,50,,277
+Norway,51,,489
+Norway,52,,621
+Norway,53,,621
+Norway,54,,907
+Norway,55,,1077
+Norway,56,,1169
+Norway,57,,1308
+Norway,58,,1423
+Norway,59,43735,1552
+Oman,-21,,0
+Oman,-20,,0
+Oman,-19,,0
+Oman,-18,,0
+Oman,-17,,0
+Oman,-16,,0
+Oman,-15,,0
+Oman,-14,,0
+Oman,-13,,0
+Oman,-12,,0
+Oman,-11,,0
+Oman,-10,,0
+Oman,-9,,0
+Oman,-8,,0
+Oman,-7,,0
+Oman,-6,,0
+Oman,-5,,0
+Oman,-4,,0
+Oman,-3,,0
+Oman,-2,,0
+Oman,-1,,0
+Oman,0,,0
+Oman,1,,0
+Oman,2,,0
+Oman,3,,0
+Oman,4,,0
+Oman,5,,0
+Oman,6,,0
+Oman,7,,0
+Oman,8,,0
+Oman,9,,0
+Oman,10,,0
+Oman,11,,0
+Oman,12,,0
+Oman,13,,0
+Oman,14,,0
+Oman,15,,0
+Oman,16,,0
+Oman,17,,0
+Oman,18,,0
+Oman,19,,0
+Oman,20,,0
+Oman,21,,0
+Oman,22,,0
+Oman,23,,0
+Oman,24,,0
+Oman,25,,0
+Oman,26,,0
+Oman,27,,0
+Oman,28,,0
+Oman,29,,0
+Oman,30,,0
+Oman,31,,0
+Oman,32,,0
+Oman,33,,0
+Oman,34,,0
+Oman,35,,2
+Oman,36,,4
+Oman,37,,4
+Oman,38,,6
+Oman,39,,6
+Oman,40,,6
+Oman,41,,6
+Oman,42,,7
+Oman,44,,15
+Oman,45,,16
+Oman,49,,18
+Oman,50,,18
+Oman,53,,20
+Oman,54,,20
+Oman,55,,22
+Oman,56,,24
+Oman,57,,24
+Oman,58,,39
+Oman,59,,39
+Pakistan,-21,,0
+Pakistan,-20,,0
+Pakistan,-19,,0
+Pakistan,-18,,0
+Pakistan,-17,,0
+Pakistan,-16,,0
+Pakistan,-15,,0
+Pakistan,-14,,0
+Pakistan,-13,,0
+Pakistan,-12,,0
+Pakistan,-11,,0
+Pakistan,-10,,0
+Pakistan,-9,,0
+Pakistan,-8,,0
+Pakistan,-7,,0
+Pakistan,-6,,0
+Pakistan,-5,,0
+Pakistan,-4,,0
+Pakistan,-3,,0
+Pakistan,-2,,0
+Pakistan,-1,,0
+Pakistan,0,,0
+Pakistan,1,,0
+Pakistan,2,,0
+Pakistan,3,,0
+Pakistan,4,,0
+Pakistan,5,,0
+Pakistan,6,,0
+Pakistan,7,,0
+Pakistan,8,,0
+Pakistan,9,,0
+Pakistan,10,,0
+Pakistan,11,,0
+Pakistan,12,,0
+Pakistan,13,,0
+Pakistan,14,,0
+Pakistan,15,,0
+Pakistan,16,,0
+Pakistan,17,,0
+Pakistan,18,,0
+Pakistan,19,,0
+Pakistan,20,,0
+Pakistan,21,,0
+Pakistan,22,,0
+Pakistan,23,,0
+Pakistan,24,,0
+Pakistan,25,,0
+Pakistan,26,,0
+Pakistan,27,,0
+Pakistan,28,,0
+Pakistan,29,,0
+Pakistan,30,,0
+Pakistan,31,,0
+Pakistan,32,,0
+Pakistan,33,,0
+Pakistan,34,,0
+Pakistan,35,,0
+Pakistan,36,,0
+Pakistan,37,,2
+Pakistan,38,,2
+Pakistan,39,,2
+Pakistan,40,,4
+Pakistan,41,,4
+Pakistan,43,,5
+Pakistan,46,,6
+Pakistan,49,,16
+Pakistan,50,,16
+Pakistan,51,,20
+Pakistan,52,,21
+Pakistan,53,,21
+Pakistan,54,,30
+Pakistan,55,,31
+Pakistan,56,,187
+Pakistan,57,,187
+Pakistan,58,1979,302
+Pakistan,59,,478
+Palestine,45,,7
+Palestine,46,,16
+Palestine,47,,19
+Palestine,49,,20
+Palestine,50,,29
+Palestine,51,,30
+Palestine,53,,35
+Palestine,54,,38
+Palestine,55,2519,38
+Palestine,56,,39
+Palestine,57,,41
+Palestine,58,,44
+Palestine,59,,47
+Panama,49,,1
+Panama,50,,7
+Panama,51,,14
+Panama,52,,27
+Panama,53,,36
+Panama,54,,43
+Panama,55,,43
+Panama,56,,69
+Panama,57,1455,86
+Panama,58,,109
+Panama,59,,137
+Paraguay,47,,1
+Paraguay,50,,5
+Paraguay,52,,6
+Paraguay,53,,7
+Paraguay,55,,8
+Paraguay,56,,9
+Paraguay,57,,11
+Paraguay,58,,11
+Paraguay,59,,13
+Peru,46,,1
+Peru,48,,7
+Peru,49,,9
+Peru,50,,11
+Peru,51,,17
+Peru,52,,22
+Peru,53,,38
+Peru,54,,43
+Peru,55,,71
+Peru,56,,86
+Peru,57,,117
+Peru,58,,145
+Peru,59,,234
+Philippines,-21,,0
+Philippines,-20,,0
+Philippines,-19,,0
+Philippines,-18,,0
+Philippines,-17,,0
+Philippines,-16,,0
+Philippines,-15,,0
+Philippines,-14,,0
+Philippines,-13,,0
+Philippines,-12,,0
+Philippines,-11,,0
+Philippines,-10,,0
+Philippines,-9,,0
+Philippines,-8,,0
+Philippines,-7,,0
+Philippines,-6,,0
+Philippines,-5,,0
+Philippines,-4,,0
+Philippines,-3,,0
+Philippines,-2,,0
+Philippines,-1,,0
+Philippines,0,,0
+Philippines,1,,0
+Philippines,2,,0
+Philippines,3,,0
+Philippines,4,,0
+Philippines,5,,0
+Philippines,6,,0
+Philippines,7,,0
+Philippines,8,,0
+Philippines,9,,1
+Philippines,10,,1
+Philippines,11,,1
+Philippines,12,,2
+Philippines,13,,2
+Philippines,14,,2
+Philippines,15,,2
+Philippines,16,,3
+Philippines,17,,3
+Philippines,18,,3
+Philippines,19,,3
+Philippines,20,,3
+Philippines,21,,3
+Philippines,22,,3
+Philippines,23,,3
+Philippines,24,,3
+Philippines,25,,3
+Philippines,26,,3
+Philippines,27,,3
+Philippines,28,,3
+Philippines,29,,3
+Philippines,30,,3
+Philippines,31,,3
+Philippines,32,,3
+Philippines,33,,3
+Philippines,34,,3
+Philippines,35,,3
+Philippines,36,,3
+Philippines,37,,3
+Philippines,38,,3
+Philippines,39,,3
+Philippines,40,,3
+Philippines,41,,3
+Philippines,46,,5
+Philippines,47,,6
+Philippines,48,,10
+Philippines,49,,33
+Philippines,50,,33
+Philippines,51,,49
+Philippines,52,,52
+Philippines,53,,64
+Philippines,54,,111
+Philippines,55,,140
+Philippines,56,,142
+Philippines,57,,187
+Philippines,58,,202
+Philippines,59,1269,230
+Poland,43,,1
+Poland,46,,5
+Poland,47,,6
+Poland,48,,11
+Poland,49,,17
+Poland,50,,22
+Poland,51,,31
+Poland,52,,49
+Poland,53,,68
+Poland,54,,104
+Poland,55,,125
+Poland,56,,177
+Poland,57,,238
+Poland,58,,287
+Poland,59,13072,355
+Portugal,42,,2
+Portugal,43,,4
+Portugal,44,,5
+Portugal,45,,9
+Portugal,46,,13
+Portugal,47,,21
+Portugal,48,,30
+Portugal,49,,39
+Portugal,50,,41
+Portugal,51,,59
+Portugal,52,,78
+Portugal,53,,112
+Portugal,54,,169
+Portugal,55,,245
+Portugal,56,,331
+Portugal,57,,448
+Portugal,58,,642
+Portugal,59,,785
+Qatar,-21,,0
+Qatar,-20,,0
+Qatar,-19,,0
+Qatar,-18,,0
+Qatar,-17,,0
+Qatar,-16,,0
+Qatar,-15,,0
+Qatar,-14,,0
+Qatar,-13,,0
+Qatar,-12,,0
+Qatar,-11,,0
+Qatar,-10,,0
+Qatar,-9,,0
+Qatar,-8,,0
+Qatar,-7,,0
+Qatar,-6,,0
+Qatar,-5,,0
+Qatar,-4,,0
+Qatar,-3,,0
+Qatar,-2,,0
+Qatar,-1,,0
+Qatar,0,,0
+Qatar,1,,0
+Qatar,2,,0
+Qatar,3,,0
+Qatar,4,,0
+Qatar,5,,0
+Qatar,6,,0
+Qatar,7,,0
+Qatar,8,,0
+Qatar,9,,0
+Qatar,10,,0
+Qatar,11,,0
+Qatar,12,,0
+Qatar,13,,0
+Qatar,14,,0
+Qatar,15,,0
+Qatar,16,,0
+Qatar,17,,0
+Qatar,18,,0
+Qatar,19,,0
+Qatar,20,,0
+Qatar,21,,0
+Qatar,22,,0
+Qatar,23,,0
+Qatar,24,,0
+Qatar,25,,0
+Qatar,26,,0
+Qatar,27,,0
+Qatar,28,,0
+Qatar,29,,0
+Qatar,30,,0
+Qatar,31,,0
+Qatar,32,,0
+Qatar,33,,0
+Qatar,34,,0
+Qatar,35,,0
+Qatar,36,,0
+Qatar,37,,0
+Qatar,38,,0
+Qatar,39,,0
+Qatar,40,,1
+Qatar,41,,3
+Qatar,43,,8
+Qatar,46,,11
+Qatar,47,,12
+Qatar,48,,15
+Qatar,49,,18
+Qatar,50,,24
+Qatar,51,,262
+Qatar,53,,320
+Qatar,54,,337
+Qatar,55,,401
+Qatar,56,8400,439
+Qatar,57,,442
+Qatar,58,,452
+Qatar,59,,460
+Romania,-21,,0
+Romania,-20,,0
+Romania,-19,,0
+Romania,-18,,0
+Romania,-17,,0
+Romania,-16,,0
+Romania,-15,,0
+Romania,-14,,0
+Romania,-13,,0
+Romania,-12,,0
+Romania,-11,,0
+Romania,-10,,0
+Romania,-9,,0
+Romania,-8,,0
+Romania,-7,,0
+Romania,-6,,0
+Romania,-5,,0
+Romania,-4,,0
+Romania,-3,,0
+Romania,-2,,0
+Romania,-1,,0
+Romania,0,,0
+Romania,1,,0
+Romania,2,,0
+Romania,3,,0
+Romania,4,,0
+Romania,5,,0
+Romania,6,,0
+Romania,7,,0
+Romania,8,,0
+Romania,9,,0
+Romania,10,,0
+Romania,11,,0
+Romania,12,,0
+Romania,13,,0
+Romania,14,,0
+Romania,15,,0
+Romania,16,,0
+Romania,17,,0
+Romania,18,,0
+Romania,19,,0
+Romania,20,,0
+Romania,21,,0
+Romania,22,,0
+Romania,23,,0
+Romania,24,,0
+Romania,25,,0
+Romania,26,,0
+Romania,27,,0
+Romania,28,,0
+Romania,29,,0
+Romania,30,,0
+Romania,31,,0
+Romania,32,,0
+Romania,33,,0
+Romania,34,,0
+Romania,35,,0
+Romania,36,,0
+Romania,37,,1
+Romania,38,,1
+Romania,39,,3
+Romania,40,,3
+Romania,41,,3
+Romania,43,,4
+Romania,45,,6
+Romania,46,,7
+Romania,47,,13
+Romania,48,,15
+Romania,49,,17
+Romania,50,,25
+Romania,51,,45
+Romania,52,,64
+Romania,53,,89
+Romania,54,,113
+Romania,55,,139
+Romania,56,,184
+Romania,57,,217
+Romania,58,,260
+Romania,59,8284,277
+Russia,-21,,0
+Russia,-20,,0
+Russia,-19,,0
+Russia,-18,,0
+Russia,-17,,0
+Russia,-16,,0
+Russia,-15,,0
+Russia,-14,,0
+Russia,-13,,0
+Russia,-12,,0
+Russia,-11,,0
+Russia,-10,,0
+Russia,-9,,0
+Russia,-8,,0
+Russia,-7,,0
+Russia,-6,,0
+Russia,-5,,0
+Russia,-4,,0
+Russia,-3,,0
+Russia,-2,,0
+Russia,-1,,0
+Russia,0,,0
+Russia,1,,0
+Russia,2,,0
+Russia,3,,0
+Russia,4,,0
+Russia,5,,0
+Russia,6,,0
+Russia,7,,0
+Russia,8,,0
+Russia,9,,0
+Russia,10,,0
+Russia,11,,2
+Russia,12,,2
+Russia,13,,2
+Russia,14,,2
+Russia,15,,2
+Russia,16,,2
+Russia,17,,2
+Russia,18,,2
+Russia,19,,2
+Russia,20,,2
+Russia,21,,2
+Russia,22,,2
+Russia,23,,2
+Russia,24,,2
+Russia,25,,2
+Russia,26,,2
+Russia,27,,2
+Russia,28,,2
+Russia,29,,2
+Russia,30,,2
+Russia,31,,2
+Russia,32,,2
+Russia,33,,2
+Russia,34,,2
+Russia,35,,2
+Russia,36,,2
+Russia,37,,2
+Russia,38,,2
+Russia,39,,2
+Russia,40,,2
+Russia,41,,2
+Russia,42,,3
+Russia,43,,4
+Russia,46,,10
+Russia,49,,10
+Russia,51,,25
+Russia,52,,30
+Russia,53,,45
+Russia,54,,59
+Russia,55,,63
+Russia,56,,93
+Russia,57,,114
+Russia,58,143519,147
+Russia,59,,199
+Rwanda,54,,1
+Rwanda,55,,5
+Rwanda,56,,5
+Rwanda,57,,7
+Rwanda,58,,11
+Rwanda,59,,11
+Saint Lucia,54,,2
+Saint Lucia,55,,2
+Saint Lucia,56,,2
+Saint Lucia,57,,2
+Saint Lucia,58,,2
+Saint Lucia,59,,2
+Saint Vincent and the Grenadines,52,,1
+San Marino,-21,,0
+San Marino,-20,,0
+San Marino,-19,,0
+San Marino,-18,,0
+San Marino,-17,,0
+San Marino,-16,,0
+San Marino,-15,,0
+San Marino,-14,,0
+San Marino,-13,,0
+San Marino,-12,,0
+San Marino,-11,,0
+San Marino,-10,,0
+San Marino,-9,,0
+San Marino,-8,,0
+San Marino,-7,,0
+San Marino,-6,,0
+San Marino,-5,,0
+San Marino,-4,,0
+San Marino,-3,,0
+San Marino,-2,,0
+San Marino,-1,,0
+San Marino,0,,0
+San Marino,1,,0
+San Marino,2,,0
+San Marino,3,,0
+San Marino,4,,0
+San Marino,5,,0
+San Marino,6,,0
+San Marino,7,,0
+San Marino,8,,0
+San Marino,9,,0
+San Marino,10,,0
+San Marino,11,,0
+San Marino,12,,0
+San Marino,13,,0
+San Marino,14,,0
+San Marino,15,,0
+San Marino,16,,0
+San Marino,17,,0
+San Marino,18,,0
+San Marino,19,,0
+San Marino,20,,0
+San Marino,21,,0
+San Marino,22,,0
+San Marino,23,,0
+San Marino,24,,0
+San Marino,25,,0
+San Marino,26,,0
+San Marino,27,,0
+San Marino,28,,0
+San Marino,29,,0
+San Marino,30,,0
+San Marino,31,,0
+San Marino,32,,0
+San Marino,33,,0
+San Marino,34,,0
+San Marino,35,,0
+San Marino,36,,0
+San Marino,37,,0
+San Marino,38,,1
+San Marino,39,,1
+San Marino,40,,1
+San Marino,41,,8
+San Marino,43,,10
+San Marino,44,,15
+San Marino,45,,22
+San Marino,46,,23
+San Marino,47,,26
+San Marino,48,,37
+San Marino,49,,49
+San Marino,50,,62
+San Marino,51,,66
+San Marino,52,,67
+San Marino,53,,73
+San Marino,54,,92
+San Marino,55,,98
+San Marino,56,,102
+San Marino,57,,104
+San Marino,58,,109
+San Marino,59,,126
+Saudi Arabia,42,,1
+Saudi Arabia,45,,5
+Saudi Arabia,47,,7
+Saudi Arabia,48,,11
+Saudi Arabia,49,,15
+Saudi Arabia,50,,20
+Saudi Arabia,51,,45
+Saudi Arabia,52,,62
+Saudi Arabia,53,,86
+Saudi Arabia,54,,86
+Saudi Arabia,55,,118
+Saudi Arabia,56,,133
+Saudi Arabia,57,,133
+Saudi Arabia,58,,171
+Saudi Arabia,59,,238
+Senegal,42,,1
+Senegal,44,,3
+Senegal,45,,4
+Senegal,52,,6
+Senegal,53,,19
+Senegal,54,,21
+Senegal,55,,26
+Senegal,56,,27
+Senegal,57,,31
+Senegal,58,,36
+Senegal,59,,36
+Serbia,46,,1
+Serbia,50,,5
+Serbia,51,,18
+Serbia,52,,24
+Serbia,53,,41
+Serbia,54,,46
+Serbia,55,,55
+Serbia,56,,57
+Serbia,57,,72
+Serbia,58,,94
+Serbia,59,,126
+Seychelles,54,,2
+Seychelles,55,,3
+Seychelles,56,,4
+Seychelles,57,,4
+Seychelles,58,,6
+Seychelles,59,,6
+Singapore,-21,,0
+Singapore,-20,,0
+Singapore,-19,,0
+Singapore,-18,,0
+Singapore,-17,,0
+Singapore,-16,,0
+Singapore,-15,,0
+Singapore,-14,,0
+Singapore,-13,,0
+Singapore,-12,,0
+Singapore,-11,,0
+Singapore,-10,,0
+Singapore,-9,,0
+Singapore,-8,,0
+Singapore,-7,,0
+Singapore,-6,,0
+Singapore,-5,,0
+Singapore,-4,,0
+Singapore,-3,,0
+Singapore,-2,,0
+Singapore,-1,,0
+Singapore,0,,0
+Singapore,1,,0
+Singapore,2,,0
+Singapore,3,,3
+Singapore,4,,3
+Singapore,5,,4
+Singapore,6,,4
+Singapore,7,,5
+Singapore,8,,7
+Singapore,9,,10
+Singapore,10,,13
+Singapore,11,,16
+Singapore,12,,18
+Singapore,13,,18
+Singapore,14,,18
+Singapore,15,,24
+Singapore,16,,28
+Singapore,17,,30
+Singapore,18,,33
+Singapore,19,,40
+Singapore,20,,43
+Singapore,21,,45
+Singapore,22,,47
+Singapore,23,,50
+Singapore,24,,58
+Singapore,25,,67
+Singapore,26,,72
+Singapore,27,,75
+Singapore,28,,77
+Singapore,29,,81
+Singapore,30,,84
+Singapore,31,,85
+Singapore,32,,86
+Singapore,33,,89
+Singapore,34,,89
+Singapore,35,,90
+Singapore,36,,91
+Singapore,37,,93
+Singapore,38,,96
+Singapore,39,,98
+Singapore,40,,102
+Singapore,41,,106
+Singapore,42,,108
+Singapore,43,,110
+Singapore,44,,112
+Singapore,45,,117
+Singapore,46,,130
+Singapore,47,,138
+Singapore,48,,150
+Singapore,49,,160
+Singapore,50,,166
+Singapore,51,,178
+Singapore,52,,187
+Singapore,53,,200
+Singapore,54,,214
+Singapore,55,,226
+Singapore,56,,243
+Singapore,57,,266
+Singapore,58,,313
+Singapore,59,,345
+Slovakia,46,,1
+Slovakia,47,,3
+Slovakia,48,,5
+Slovakia,50,,7
+Slovakia,51,,10
+Slovakia,52,,21
+Slovakia,53,,30
+Slovakia,54,,44
+Slovakia,55,,61
+Slovakia,56,,84
+Slovakia,57,,97
+Slovakia,58,,107
+Slovakia,59,2707,123
+Slovenia,44,,1
+Slovenia,45,,6
+Slovenia,46,,9
+Slovenia,47,,12
+Slovenia,48,,16
+Slovenia,50,,31
+Slovenia,51,,57
+Slovenia,52,,96
+Slovenia,53,,141
+Slovenia,54,,181
+Slovenia,55,,219
+Slovenia,56,,253
+Slovenia,57,,275
+Slovenia,58,9860,286
+Slovenia,59,,319
+Somalia,56,,1
+Somalia,57,,1
+Somalia,58,,1
+Somalia,59,,1
+South Africa,45,,1
+South Africa,47,,2
+South Africa,48,,3
+South Africa,49,,7
+South Africa,51,,13
+South Africa,52,,17
+South Africa,53,,24
+South Africa,54,,24
+South Africa,55,,51
+South Africa,56,,62
+South Africa,57,,85
+South Africa,58,,116
+South Africa,59,6438,150
+South Korea,-21,,0
+South Korea,-20,,0
+South Korea,-19,,0
+South Korea,-18,,0
+South Korea,-17,,0
+South Korea,-16,,0
+South Korea,-15,,0
+South Korea,-14,,0
+South Korea,-13,,0
+South Korea,-12,,0
+South Korea,-11,,0
+South Korea,-10,,0
+South Korea,-9,,0
+South Korea,-8,,0
+South Korea,-7,,0
+South Korea,-6,,0
+South Korea,-5,,0
+South Korea,-4,,0
+South Korea,-3,,0
+South Korea,-2,,0
+South Korea,-1,,1
+South Korea,0,,1
+South Korea,1,,1
+South Korea,2,,1
+South Korea,3,,2
+South Korea,4,,2
+South Korea,5,,3
+South Korea,6,,4
+South Korea,7,,4
+South Korea,8,,4
+South Korea,9,,4
+South Korea,10,,7
+South Korea,11,,12
+South Korea,12,,15
+South Korea,13,,15
+South Korea,14,,16
+South Korea,15,,18
+South Korea,16,,23
+South Korea,17,,24
+South Korea,18,,24
+South Korea,19,,25
+South Korea,20,,27
+South Korea,21,,28
+South Korea,22,,28
+South Korea,23,,28
+South Korea,24,,28
+South Korea,25,,28
+South Korea,26,,29
+South Korea,27,,30
+South Korea,28,,31
+South Korea,29,,46
+South Korea,30,,80
+South Korea,31,,155
+South Korea,32,,345
+South Korea,33,,601
+South Korea,34,,762
+South Korea,35,,892
+South Korea,36,,1146
+South Korea,37,,1595
+South Korea,38,,2022
+South Korea,39,,2931
+South Korea,40,,3526
+South Korea,41,,4212
+South Korea,42,,4812
+South Korea,43,,5328
+South Korea,44,,5766
+South Korea,45,,6284
+South Korea,46,,6767
+South Korea,47,,7134
+South Korea,48,,7382
+South Korea,49,,7513
+South Korea,50,,7755
+South Korea,51,,7869
+South Korea,52,,7979
+South Korea,53,,8086
+South Korea,54,,8162
+South Korea,55,,8236
+South Korea,56,,8320
+South Korea,57,,8413
+South Korea,58,,8565
+South Korea,59,316664,8652
+Spain,-21,,0
+Spain,-20,,0
+Spain,-19,,0
+Spain,-18,,0
+Spain,-17,,0
+Spain,-16,,0
+Spain,-15,,0
+Spain,-14,,0
+Spain,-13,,0
+Spain,-12,,0
+Spain,-11,,0
+Spain,-10,,0
+Spain,-9,,0
+Spain,-8,,0
+Spain,-7,,0
+Spain,-6,,0
+Spain,-5,,0
+Spain,-4,,0
+Spain,-3,,0
+Spain,-2,,0
+Spain,-1,,0
+Spain,0,,0
+Spain,1,,0
+Spain,2,,0
+Spain,3,,0
+Spain,4,,0
+Spain,5,,0
+Spain,6,,0
+Spain,7,,0
+Spain,8,,0
+Spain,9,,0
+Spain,10,,0
+Spain,11,,1
+Spain,12,,1
+Spain,13,,1
+Spain,14,,1
+Spain,15,,1
+Spain,16,,1
+Spain,17,,1
+Spain,18,,1
+Spain,19,,1
+Spain,20,,2
+Spain,21,,2
+Spain,22,,2
+Spain,23,,2
+Spain,24,,2
+Spain,25,,2
+Spain,26,,2
+Spain,27,,2
+Spain,28,,2
+Spain,29,,2
+Spain,30,,2
+Spain,31,,2
+Spain,32,,2
+Spain,33,,2
+Spain,34,,2
+Spain,35,,3
+Spain,36,,7
+Spain,37,,12
+Spain,38,,25
+Spain,39,,34
+Spain,40,,66
+Spain,41,,83
+Spain,42,,114
+Spain,43,,151
+Spain,44,,200
+Spain,45,,261
+Spain,46,,374
+Spain,47,,430
+Spain,48,,589
+Spain,49,,1204
+Spain,50,,1639
+Spain,51,,2140
+Spain,52,,3004
+Spain,53,,4231
+Spain,54,,5753
+Spain,55,,7753
+Spain,56,,9191
+Spain,57,30000,11178
+Spain,58,,13716
+Spain,59,,17147
+Sri Lanka,-21,,0
+Sri Lanka,-20,,0
+Sri Lanka,-19,,0
+Sri Lanka,-18,,0
+Sri Lanka,-17,,0
+Sri Lanka,-16,,0
+Sri Lanka,-15,,0
+Sri Lanka,-14,,0
+Sri Lanka,-13,,0
+Sri Lanka,-12,,0
+Sri Lanka,-11,,0
+Sri Lanka,-10,,0
+Sri Lanka,-9,,0
+Sri Lanka,-8,,0
+Sri Lanka,-7,,0
+Sri Lanka,-6,,0
+Sri Lanka,-5,,0
+Sri Lanka,-4,,0
+Sri Lanka,-3,,0
+Sri Lanka,-2,,0
+Sri Lanka,-1,,0
+Sri Lanka,0,,0
+Sri Lanka,1,,0
+Sri Lanka,2,,0
+Sri Lanka,3,,0
+Sri Lanka,4,,0
+Sri Lanka,5,,0
+Sri Lanka,6,,0
+Sri Lanka,7,,1
+Sri Lanka,8,,1
+Sri Lanka,9,,1
+Sri Lanka,10,,1
+Sri Lanka,11,,1
+Sri Lanka,12,,1
+Sri Lanka,13,,1
+Sri Lanka,14,,1
+Sri Lanka,15,,1
+Sri Lanka,16,,1
+Sri Lanka,17,,1
+Sri Lanka,18,,1
+Sri Lanka,19,,1
+Sri Lanka,20,,1
+Sri Lanka,21,,1
+Sri Lanka,22,,1
+Sri Lanka,23,,1
+Sri Lanka,24,,1
+Sri Lanka,25,,1
+Sri Lanka,26,,1
+Sri Lanka,27,,1
+Sri Lanka,28,,1
+Sri Lanka,29,,1
+Sri Lanka,30,,1
+Sri Lanka,31,,1
+Sri Lanka,32,,1
+Sri Lanka,33,,1
+Sri Lanka,34,,1
+Sri Lanka,35,,1
+Sri Lanka,36,,1
+Sri Lanka,37,,1
+Sri Lanka,38,,1
+Sri Lanka,39,,1
+Sri Lanka,40,,1
+Sri Lanka,41,,1
+Sri Lanka,51,,2
+Sri Lanka,52,,3
+Sri Lanka,53,,6
+Sri Lanka,54,,11
+Sri Lanka,55,,19
+Sri Lanka,56,,29
+Sri Lanka,57,,42
+Sri Lanka,58,,42
+Sri Lanka,59,,53
+Sudan,53,,1
+Sudan,54,,1
+Sudan,55,,1
+Sudan,56,,1
+Sudan,57,,1
+Sudan,58,,2
+Sudan,59,,2
+Suriname,54,,1
+Swaziland,54,,1
+Swaziland,55,,1
+Swaziland,56,,1
+Swaziland,57,,1
+Swaziland,58,,1
+Swaziland,59,,1
+Sweden,-21,,0
+Sweden,-20,,0
+Sweden,-19,,0
+Sweden,-18,,0
+Sweden,-17,,0
+Sweden,-16,,0
+Sweden,-15,,0
+Sweden,-14,,0
+Sweden,-13,,0
+Sweden,-12,,0
+Sweden,-11,,0
+Sweden,-10,,0
+Sweden,-9,,0
+Sweden,-8,,0
+Sweden,-7,,0
+Sweden,-6,,0
+Sweden,-5,,0
+Sweden,-4,,0
+Sweden,-3,,0
+Sweden,-2,,0
+Sweden,-1,,0
+Sweden,0,,0
+Sweden,1,,0
+Sweden,2,,0
+Sweden,3,,0
+Sweden,4,,0
+Sweden,5,,0
+Sweden,6,,0
+Sweden,7,,0
+Sweden,8,,0
+Sweden,9,,0
+Sweden,10,,0
+Sweden,11,,1
+Sweden,12,,1
+Sweden,13,,1
+Sweden,14,,1
+Sweden,15,,1
+Sweden,16,,1
+Sweden,17,,1
+Sweden,18,,1
+Sweden,19,,1
+Sweden,20,,1
+Sweden,21,,1
+Sweden,22,,1
+Sweden,23,,1
+Sweden,24,,1
+Sweden,25,,1
+Sweden,26,,1
+Sweden,27,,1
+Sweden,28,,1
+Sweden,29,,1
+Sweden,30,,1
+Sweden,31,,1
+Sweden,32,,1
+Sweden,33,,1
+Sweden,34,,1
+Sweden,35,,1
+Sweden,36,,1
+Sweden,37,,2
+Sweden,38,,7
+Sweden,39,,12
+Sweden,40,,13
+Sweden,41,,14
+Sweden,42,,15
+Sweden,43,,24
+Sweden,44,,35
+Sweden,45,,61
+Sweden,46,,137
+Sweden,47,,161
+Sweden,48,,203
+Sweden,49,,248
+Sweden,50,,326
+Sweden,51,,462
+Sweden,52,,620
+Sweden,53,,775
+Sweden,54,,924
+Sweden,55,,1032
+Sweden,56,14300,1121
+Sweden,57,,1167
+Sweden,58,,1301
+Sweden,59,,1423
+Switzerland,-21,,0
+Switzerland,-20,,0
+Switzerland,-19,,0
+Switzerland,-18,,0
+Switzerland,-17,,0
+Switzerland,-16,,0
+Switzerland,-15,,0
+Switzerland,-14,,0
+Switzerland,-13,,0
+Switzerland,-12,,0
+Switzerland,-11,,0
+Switzerland,-10,,0
+Switzerland,-9,,0
+Switzerland,-8,,0
+Switzerland,-7,,0
+Switzerland,-6,,0
+Switzerland,-5,,0
+Switzerland,-4,,0
+Switzerland,-3,,0
+Switzerland,-2,,0
+Switzerland,-1,,0
+Switzerland,0,,0
+Switzerland,1,,0
+Switzerland,2,,0
+Switzerland,3,,0
+Switzerland,4,,0
+Switzerland,5,,0
+Switzerland,6,,0
+Switzerland,7,,0
+Switzerland,8,,0
+Switzerland,9,,0
+Switzerland,10,,0
+Switzerland,11,,0
+Switzerland,12,,0
+Switzerland,13,,0
+Switzerland,14,,0
+Switzerland,15,,0
+Switzerland,16,,0
+Switzerland,17,,0
+Switzerland,18,,0
+Switzerland,19,,0
+Switzerland,20,,0
+Switzerland,21,,0
+Switzerland,22,,0
+Switzerland,23,,0
+Switzerland,24,,0
+Switzerland,25,,0
+Switzerland,26,,0
+Switzerland,27,,0
+Switzerland,28,,0
+Switzerland,29,,0
+Switzerland,30,,0
+Switzerland,31,,0
+Switzerland,32,,0
+Switzerland,33,,0
+Switzerland,34,,0
+Switzerland,35,,0
+Switzerland,36,,1
+Switzerland,37,,1
+Switzerland,38,,8
+Switzerland,39,,12
+Switzerland,40,,18
+Switzerland,41,,24
+Switzerland,42,,30
+Switzerland,43,,37
+Switzerland,44,,57
+Switzerland,45,,87
+Switzerland,46,4000,209
+Switzerland,47,,264
+Switzerland,48,,332
+Switzerland,49,,374
+Switzerland,50,,490
+Switzerland,51,,642
+Switzerland,52,,854
+Switzerland,53,,1121
+Switzerland,54,,1359
+Switzerland,55,,2200
+Switzerland,56,,2200
+Switzerland,57,,2650
+Switzerland,58,,3010
+Switzerland,59,,3888
+Taiwan,-21,,0
+Taiwan,-20,,0
+Taiwan,-19,,0
+Taiwan,-18,,0
+Taiwan,-17,,0
+Taiwan,-16,,0
+Taiwan,-15,,0
+Taiwan,-14,,0
+Taiwan,-13,,0
+Taiwan,-12,,0
+Taiwan,-11,,0
+Taiwan,-10,,0
+Taiwan,-9,,0
+Taiwan,-8,,0
+Taiwan,-7,,0
+Taiwan,-6,,0
+Taiwan,-5,,0
+Taiwan,-4,,0
+Taiwan,-3,,0
+Taiwan,-2,,0
+Taiwan,-1,,0
+Taiwan,0,,1
+Taiwan,1,,1
+Taiwan,2,,1
+Taiwan,3,,1
+Taiwan,4,,3
+Taiwan,5,,3
+Taiwan,6,,5
+Taiwan,7,,7
+Taiwan,8,,8
+Taiwan,9,,8
+Taiwan,10,,9
+Taiwan,11,,10
+Taiwan,12,,10
+Taiwan,13,,10
+Taiwan,14,,10
+Taiwan,15,,11
+Taiwan,16,,11
+Taiwan,17,,16
+Taiwan,18,,17
+Taiwan,19,,18
+Taiwan,20,,18
+Taiwan,21,,18
+Taiwan,22,,18
+Taiwan,23,,18
+Taiwan,24,,18
+Taiwan,25,,18
+Taiwan,26,,18
+Taiwan,27,,20
+Taiwan,28,,22
+Taiwan,29,,22
+Taiwan,30,,24
+Taiwan,31,,24
+Taiwan,32,,26
+Taiwan,33,,26
+Taiwan,34,,28
+Taiwan,35,,30
+Taiwan,36,,31
+Taiwan,37,,32
+Taiwan,38,,34
+Taiwan,39,,39
+Taiwan,40,,40
+Taiwan,41,,40
+Taiwan,42,,41
+Taiwan,43,,42
+Taiwan,45,,44
+Taiwan,46,,45
+Taiwan,47,,45
+Taiwan,48,,45
+Taiwan,50,,48
+Taiwan,51,,48
+Taiwan,52,,49
+Taiwan,53,,53
+Taiwan,54,,59
+Taiwan,55,,59
+Taiwan,56,,67
+Taiwan,57,,77
+Taiwan,58,,108
+Taiwan,59,21376,108
+Tanzania,56,,1
+Tanzania,57,,1
+Tanzania,58,,3
+Tanzania,59,,3
+Thailand,-21,,0
+Thailand,-20,,0
+Thailand,-19,,0
+Thailand,-18,,0
+Thailand,-17,,0
+Thailand,-16,,0
+Thailand,-15,,0
+Thailand,-14,,0
+Thailand,-13,,0
+Thailand,-12,,0
+Thailand,-11,,0
+Thailand,-10,,0
+Thailand,-9,,0
+Thailand,-8,,1
+Thailand,-7,,1
+Thailand,-6,,1
+Thailand,-5,,1
+Thailand,-4,,2
+Thailand,-3,,2
+Thailand,-2,,2
+Thailand,-1,,2
+Thailand,0,,2
+Thailand,1,,4
+Thailand,2,,4
+Thailand,3,,4
+Thailand,4,,5
+Thailand,5,,5
+Thailand,6,,8
+Thailand,7,,14
+Thailand,8,,14
+Thailand,9,,14
+Thailand,10,,14
+Thailand,11,,19
+Thailand,12,,19
+Thailand,13,,19
+Thailand,14,,19
+Thailand,15,,25
+Thailand,16,,25
+Thailand,17,,25
+Thailand,18,,32
+Thailand,19,,32
+Thailand,20,,32
+Thailand,21,,32
+Thailand,22,,33
+Thailand,23,,33
+Thailand,24,,33
+Thailand,25,,34
+Thailand,26,,34
+Thailand,27,,34
+Thailand,28,,35
+Thailand,29,,35
+Thailand,30,,35
+Thailand,31,,35
+Thailand,32,,35
+Thailand,33,,35
+Thailand,34,,35
+Thailand,35,,37
+Thailand,36,,40
+Thailand,37,,40
+Thailand,38,,40
+Thailand,39,,42
+Thailand,40,,42
+Thailand,41,,43
+Thailand,44,,47
+Thailand,46,,50
+Thailand,50,,59
+Thailand,51,,70
+Thailand,53,,82
+Thailand,54,,82
+Thailand,55,,114
+Thailand,56,7084,177
+Thailand,57,,177
+Thailand,58,,177
+Thailand,59,,212
+Togo,46,,1
+Togo,54,,1
+Togo,55,,1
+Togo,56,,1
+Togo,57,,1
+Togo,58,,1
+Togo,59,,1
+Trinidad and Tobago,52,,1
+Trinidad and Tobago,53,,2
+Trinidad and Tobago,54,,2
+Trinidad and Tobago,55,,4
+Trinidad and Tobago,56,,5
+Trinidad and Tobago,57,,7
+Trinidad and Tobago,58,,9
+Trinidad and Tobago,59,,9
+Tunisia,42,,1
+Tunisia,49,,2
+Tunisia,50,,5
+Tunisia,51,,7
+Tunisia,52,,13
+Tunisia,53,,16
+Tunisia,54,,16
+Tunisia,55,,18
+Tunisia,56,,20
+Tunisia,57,,24
+Tunisia,58,,29
+Tunisia,59,,39
+Turkey,49,2900,
+Turkey,51,,1
+Turkey,52,,2
+Turkey,55,,18
+Turkey,56,,47
+Turkey,57,,98
+Turkey,58,,191
+Turkey,59,,359
+Ukraine,43,,1
+Ukraine,52,,3
+Ukraine,55,,3
+Ukraine,56,,5
+Ukraine,57,,14
+Ukraine,58,,19
+Ukraine,59,316,26
+United Arab Emirates,-21,,0
+United Arab Emirates,-20,,0
+United Arab Emirates,-19,,0
+United Arab Emirates,-18,,0
+United Arab Emirates,-17,,0
+United Arab Emirates,-16,,0
+United Arab Emirates,-15,,0
+United Arab Emirates,-14,,0
+United Arab Emirates,-13,,0
+United Arab Emirates,-12,,0
+United Arab Emirates,-11,,0
+United Arab Emirates,-10,,0
+United Arab Emirates,-9,,0
+United Arab Emirates,-8,,0
+United Arab Emirates,-7,,0
+United Arab Emirates,-6,,0
+United Arab Emirates,-5,,0
+United Arab Emirates,-4,,0
+United Arab Emirates,-3,,0
+United Arab Emirates,-2,,0
+United Arab Emirates,-1,,0
+United Arab Emirates,0,,0
+United Arab Emirates,1,,0
+United Arab Emirates,2,,0
+United Arab Emirates,3,,0
+United Arab Emirates,4,,0
+United Arab Emirates,5,,0
+United Arab Emirates,6,,1
+United Arab Emirates,7,,1
+United Arab Emirates,8,,1
+United Arab Emirates,9,,4
+United Arab Emirates,10,,4
+United Arab Emirates,11,,4
+United Arab Emirates,12,,5
+United Arab Emirates,13,,5
+United Arab Emirates,14,,5
+United Arab Emirates,15,,5
+United Arab Emirates,16,,5
+United Arab Emirates,17,,5
+United Arab Emirates,18,,7
+United Arab Emirates,19,,7
+United Arab Emirates,20,,7
+United Arab Emirates,21,,8
+United Arab Emirates,22,,8
+United Arab Emirates,23,,8
+United Arab Emirates,24,,8
+United Arab Emirates,25,,8
+United Arab Emirates,26,,8
+United Arab Emirates,27,,9
+United Arab Emirates,28,,9
+United Arab Emirates,29,,9
+United Arab Emirates,30,,9
+United Arab Emirates,31,,9
+United Arab Emirates,32,,11
+United Arab Emirates,33,,13
+United Arab Emirates,34,,13
+United Arab Emirates,35,,13
+United Arab Emirates,36,,13
+United Arab Emirates,37,,13
+United Arab Emirates,38,,19
+United Arab Emirates,39,,19
+United Arab Emirates,40,,21
+United Arab Emirates,41,,21
+United Arab Emirates,43,,27
+United Arab Emirates,45,,29
+United Arab Emirates,47,,45
+United Arab Emirates,49,,59
+United Arab Emirates,50,,74
+United Arab Emirates,52,,85
+United Arab Emirates,54,,85
+United Arab Emirates,55,125000,86
+United Arab Emirates,56,,98
+United Arab Emirates,57,,113
+United Arab Emirates,58,,113
+United Arab Emirates,59,,140
+United Kingdom,-21,,0
+United Kingdom,-20,,0
+United Kingdom,-19,,0
+United Kingdom,-18,,0
+United Kingdom,-17,,0
+United Kingdom,-16,,0
+United Kingdom,-15,,0
+United Kingdom,-14,,0
+United Kingdom,-13,,0
+United Kingdom,-12,,0
+United Kingdom,-11,,0
+United Kingdom,-10,,0
+United Kingdom,-9,,0
+United Kingdom,-8,,0
+United Kingdom,-7,,0
+United Kingdom,-6,,0
+United Kingdom,-5,,0
+United Kingdom,-4,,0
+United Kingdom,-3,,0
+United Kingdom,-2,,0
+United Kingdom,-1,,0
+United Kingdom,0,,0
+United Kingdom,1,,0
+United Kingdom,2,,0
+United Kingdom,3,,0
+United Kingdom,4,,0
+United Kingdom,5,,0
+United Kingdom,6,,0
+United Kingdom,7,,0
+United Kingdom,8,,0
+United Kingdom,9,,0
+United Kingdom,10,,2
+United Kingdom,11,,2
+United Kingdom,12,,2
+United Kingdom,13,,2
+United Kingdom,14,,2
+United Kingdom,15,,2
+United Kingdom,16,,2
+United Kingdom,17,,3
+United Kingdom,18,,3
+United Kingdom,19,,4
+United Kingdom,20,,4
+United Kingdom,21,,8
+United Kingdom,22,,8
+United Kingdom,23,,9
+United Kingdom,24,,9
+United Kingdom,25,,9
+United Kingdom,26,,9
+United Kingdom,27,,9
+United Kingdom,28,,9
+United Kingdom,29,,9
+United Kingdom,30,,9
+United Kingdom,31,,9
+United Kingdom,32,,9
+United Kingdom,33,,9
+United Kingdom,34,,13
+United Kingdom,35,,13
+United Kingdom,36,,13
+United Kingdom,37,,13
+United Kingdom,38,,16
+United Kingdom,39,,18
+United Kingdom,40,,23
+United Kingdom,41,,36
+United Kingdom,42,,40
+United Kingdom,43,,51
+United Kingdom,44,,85
+United Kingdom,45,,115
+United Kingdom,46,,163
+United Kingdom,47,,206
+United Kingdom,48,,273
+United Kingdom,49,,321
+United Kingdom,50,,373
+United Kingdom,51,,456
+United Kingdom,52,,590
+United Kingdom,53,,707
+United Kingdom,54,,1140
+United Kingdom,55,,1391
+United Kingdom,56,,1543
+United Kingdom,57,,1950
+United Kingdom,58,64621,2630
+United Kingdom,59,,3277
+United States,-21,,0
+United States,-20,,0
+United States,-19,,0
+United States,-18,,0
+United States,-17,,0
+United States,-16,,0
+United States,-15,,0
+United States,-14,,0
+United States,-13,,0
+United States,-12,,0
+United States,-11,,0
+United States,-10,,0
+United States,-9,,0
+United States,-8,,0
+United States,-7,,0
+United States,-6,,0
+United States,-5,,0
+United States,-4,,0
+United States,-3,,0
+United States,-2,,0
+United States,-1,,0
+United States,0,,1
+United States,1,,1
+United States,2,,1
+United States,3,,1
+United States,4,,2
+United States,5,,2
+United States,6,,5
+United States,7,,5
+United States,8,,5
+United States,9,,5
+United States,10,,6
+United States,11,,7
+United States,12,,8
+United States,13,,11
+United States,14,,11
+United States,15,,11
+United States,16,,12
+United States,17,,12
+United States,18,,12
+United States,19,,12
+United States,20,,12
+United States,21,,13
+United States,22,,13
+United States,23,,14
+United States,24,,15
+United States,25,,15
+United States,26,,15
+United States,27,,15
+United States,28,,15
+United States,29,,15
+United States,30,,15
+United States,31,,16
+United States,32,,35
+United States,33,,35
+United States,34,,35
+United States,35,,53
+United States,36,,53
+United States,37,,59
+United States,38,,60
+United States,39,,66
+United States,40,,69
+United States,41,,89
+United States,42,,103
+United States,43,,125
+United States,44,,159
+United States,45,,233
+United States,46,,338
+United States,47,,433
+United States,48,,554
+United States,49,,754
+United States,50,,1025
+United States,51,,1312
+United States,52,,1663
+United States,53,,2174
+United States,54,,2951
+United States,55,,3774
+United States,56,,4661
+United States,57,,6427
+United States,58,103945,9415
+United States,59,,14250
+United States - CDC samples tested,53,37646,
+Uruguay,54,,6
+Uruguay,55,,8
+Uruguay,56,,29
+Uruguay,57,,50
+Uruguay,58,,79
+Uruguay,59,,94
+Uzbekistan,55,,6
+Uzbekistan,56,,8
+Uzbekistan,57,,16
+Uzbekistan,58,,23
+Uzbekistan,59,,23
+Vatican,46,,1
+Vatican,55,,1
+Vatican,56,,1
+Vatican,57,,1
+Vatican,58,,1
+Vatican,59,,13
+Venezuela,54,,10
+Venezuela,55,,15
+Venezuela,56,,33
+Venezuela,57,,33
+Venezuela,58,,33
+Venezuela,59,,33
+Vietnam,-21,,0
+Vietnam,-20,,0
+Vietnam,-19,,0
+Vietnam,-18,,0
+Vietnam,-17,,0
+Vietnam,-16,,0
+Vietnam,-15,,0
+Vietnam,-14,,0
+Vietnam,-13,,0
+Vietnam,-12,,0
+Vietnam,-11,,0
+Vietnam,-10,,0
+Vietnam,-9,,0
+Vietnam,-8,,0
+Vietnam,-7,,0
+Vietnam,-6,,0
+Vietnam,-5,,0
+Vietnam,-4,,0
+Vietnam,-3,,0
+Vietnam,-2,,0
+Vietnam,-1,,0
+Vietnam,0,,0
+Vietnam,1,,0
+Vietnam,2,,0
+Vietnam,3,,2
+Vietnam,4,,2
+Vietnam,5,,2
+Vietnam,6,,2
+Vietnam,7,,2
+Vietnam,8,,2
+Vietnam,9,,2
+Vietnam,10,,5
+Vietnam,11,,5
+Vietnam,12,,7
+Vietnam,13,,8
+Vietnam,14,,9
+Vietnam,15,,10
+Vietnam,16,,10
+Vietnam,17,,12
+Vietnam,18,,13
+Vietnam,19,,14
+Vietnam,20,,14
+Vietnam,21,,15
+Vietnam,22,,15
+Vietnam,23,,16
+Vietnam,24,,16
+Vietnam,25,,16
+Vietnam,26,,16
+Vietnam,27,,16
+Vietnam,28,,16
+Vietnam,29,,16
+Vietnam,30,,16
+Vietnam,31,,16
+Vietnam,32,,16
+Vietnam,33,,16
+Vietnam,34,,16
+Vietnam,35,,16
+Vietnam,36,,16
+Vietnam,37,,16
+Vietnam,38,,16
+Vietnam,39,,16
+Vietnam,40,,16
+Vietnam,41,,16
+Vietnam,46,,17
+Vietnam,47,,21
+Vietnam,48,,30
+Vietnam,49,,31
+Vietnam,50,,35
+Vietnam,51,,39
+Vietnam,52,,44
+Vietnam,53,,49
+Vietnam,54,,53
+Vietnam,55,,57
+Vietnam,56,,61
+Vietnam,57,,61
+Vietnam,58,,76
+Vietnam,59,15637,85
+World,-21,,27
+World,-20,,27
+World,-19,,27
+World,-18,,44
+World,-17,,44
+World,-16,,59
+World,-15,,59
+World,-14,,59
+World,-13,,59
+World,-12,,59
+World,-11,,59
+World,-10,,59
+World,-9,,59
+World,-8,,60
+World,-7,,60
+World,-6,,61
+World,-5,,61
+World,-4,,66
+World,-3,,83
+World,-2,,219
+World,-1,,239
+World,0,,392
+World,1,,534
+World,2,,631
+World,3,,897
+World,4,,1350
+World,5,,2023
+World,6,,2820
+World,7,,4587
+World,8,,6067
+World,9,,7823
+World,10,,9826
+World,11,,11946
+World,12,,14554
+World,13,,17372
+World,14,,20615
+World,15,,24522
+World,16,,28273
+World,17,,31491
+World,18,,34933
+World,19,,37552
+World,20,,40540
+World,21,,43105
+World,22,,45177
+World,23,,60328
+World,24,,64543
+World,25,,67103
+World,26,,69265
+World,27,,71332
+World,28,,73327
+World,29,,75191
+World,30,,75723
+World,31,,76719
+World,32,,77804
+World,33,,78812
+World,34,,79339
+World,35,,80132
+World,36,,80995
+World,37,,82101
+World,38,,83365
+World,39,,85203
+World,40,,87024
+World,41,,89068
+World,42,,90663
+World,43,,93076
+World,44,,95315
+World,45,,98171
+World,46,,102132
+World,47,,105823
+World,48,,109694
+World,49,,114231
+World,50,,118609
+World,51,,125496
+World,52,,133848
+World,53,,143223
+World,54,,151363
+World,55,,167414
+World,56,,180159
+World,57,,194909
+World,58,,213254
+World,59,,242476
+Zambia,58,,2
+Zambia,59,,2
