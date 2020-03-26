@@ -258,7 +258,7 @@ plot(forecast(arima(ts(data$Confirmed), order=c(ARIMA[1],ARIMA[2],ARIMA[3]))),
 print(rdata$GJapan <- rdata$FJapan %>% select(c(1:6)) %>% 
         melt(id.var="Date") %>% na.omit)
 ggline(rdata$GJapan, x="Date", y="value", color="variable", size=1.5,
-       title="Korea", legend="right")
+       title="Japan", legend="right")
 
 
 
