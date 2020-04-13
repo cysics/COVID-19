@@ -2,104 +2,11 @@
 library(tidyverse); library(reshape2); library(tibble); library(stringr);
 rdata <- list()
 
-#### 가. 전세계 데이터 #####
-rdata$url <- c("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv", "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv", "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv", "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/testing/covid-testing-all-observations.csv")
-
-# 날짜 및 나라별 확진자 수
-rdata$confirmedCases <- read_csv(rdata$url[1]) %>% select(-c(Lat,Long)) %>% 
-  melt(id=c('Country/Region','Province/State')) %>% 
-  rename("Country"=1, "State"=2, "Variable"=3, "Confirmed"=4) %>% 
-  group_by(Country, Variable) %>% summarise(Confirmed=sum(Confirmed)) %>% 
-  rename("Country"=1,"Date"=2,"Confirmed"=3)
-
-# 날짜 및 나라별 사망자 수
-rdata$DeathCases <- read_csv(rdata$url[2]) %>% select(-c(Lat,Long)) %>% 
-  melt(id=c('Country/Region','Province/State')) %>% 
-  rename("Country"=1,State=2, "Variable"=3, "Deaths"=4) %>% 
-  group_by(Country, Variable) %>% summarise(Confirmed=sum(Deaths)) %>% 
-  rename("Country"=1,"Date"=2,"Deaths"=3)
-
-# 날짜 및 나라별 완치자 수
-rdata$recoveredCases <- read_csv(rdata$url[3]) %>% select(-c(Lat,Long)) %>% 
-  melt(id=c('Country/Region','Province/State')) %>% 
-  rename("Country"=1,State=2, "Variable"=3, "Recovered"=4) %>% 
-  group_by(Country, Variable) %>% summarise(Confirmed=sum(Recovered)) %>% 
-  rename("Country"=1,"Date"=2,"Recovered"=3)
-
-
-# 확진자, 사망자 합치기
-rdata$World <- merge(merge(rdata$confirmedCases, rdata$DeathCases, 
-                           by.y=c("Country","Date")), rdata$recoveredCases, by.y=c("Country","Date")) %>% 
-  mutate(Date=as.Date(.$Date, "%m/%d/%y"))
-
-max(rdata$World$Date)
-
-
-##### 나. 나라별 인구수 ####
-rdata$Population <- read_csv("data/Population.csv") %>% 
-  filter(Year=="2017") %>% select(c(1,3))   # 인구는 2019년 기준
-
-# 국가 이름 맞추기 
-setdiff(rdata$World$Country, rdata$Population$Country)
-rdata$World$Country <- gsub("Korea\\, South", "Korea", rdata$World$Country)
-rdata$Population$Country <- gsub("South Korea", "Korea", rdata$Population$Country)
-rdata$World$Country <- gsub("Taiwan\\*", "Taiwan", rdata$World$Country)
-rdata$Population$Country <- gsub("United States", "US", rdata$Population$Country)
-
-# 확진자 수를 기준으로 데이터 합치기
-rdata$WorldP <- merge(rdata$World, rdata$Population) %>% arrange(Country, Date)
-
-
-#### 다. 검사자 수 합치기 ####
-# Sys.setlocale("LC_ALL", "english")
-# rdata$TotalTests <- read_csv("data/full-list-total-tests-for-covid-19.csv") %>% 
-#   select(c(1,3:4)) %>% rename(Country=1, Date=2, TotalTests=3) %>% 
-#   mutate(Date=lubridate::mdy(Date))
-# Sys.setlocale("LC_ALL", "korean")
-
-# github 공개
-rdata$TotalTests <- read_csv(rdata$url[4]) %>% 
-  separate(Entity, sep=" ", into=c("Country", "X1", "X2")) %>% 
-  mutate(Country=ifelse(!grepl("-", X1), paste(Country, X1), Country)) %>% 
-  select(c(1, 4, 8:10)) %>% 
-  rename("Country"=1, "Date"=2, "TotalTests"=3, "DailyT"=4, "TestsperT"=5)
-
-# 나라 이름 맞추기
-setdiff(rdata$TotalTests$Country, rdata$WorldP$Country)
-rdata$TotalTests$Country <- gsub("South Korea", "Korea", rdata$TotalTests$Country)
-rdata$TotalTests$Country <- gsub("United States", "US", rdata$TotalTests$Country)
-setdiff(rdata$TotalTests$Country, rdata$WorldP$Country)
-
-# 데이터 합치기
-rdata$data <- merge(rdata$TotalTests, rdata$WorldP, all=T) %>% 
-  arrange(Country, Date) 
-# unique(rdata$data$Country)
-rdata$data$Country <- gsub("United Kingdom", "UK", rdata$data$Country)
-rdata$data$Country <- gsub("United Arab Emirates", "A.Emirates", rdata$data$Country)
-rdata$data$Country <- gsub("Dominican Republic", "Dominica", rdata$data$Country)
-
-# 각종 값 계산
-rdata$data <- rdata$data %>% group_by(Country) %>% 
-  mutate(DailyC=Confirmed-lag(Confirmed),
-         DailyT=TotalTests-lag(TotalTests),
-         DailyD=Deaths-lag(Deaths),
-         DeathRate=ifelse(Confirmed==0, 0, 100*Deaths/Confirmed),
-         ConfirmedperM=Confirmed/Population,
-         ConfirmedperT=Confirmed/TotalTests,
-         DeathsperM=Deaths/Population,
-         DeathsperT=Deaths/TotalTests,
-         DeathRateperT=DeathRate/TotalTests) %>% ungroup(Country)
-
-rdata$data %>% filter(Country=="Korea") %>% arrange(desc(Date))
-rdata$data %>% filter(Country=="Japan") %>% arrange(desc(Date))
-
-#### 다. 다른 질병에 대한 정보 ####
+#### 질병에 의한 사망자 정보 ####
 rdata$Diseases <- readxl::read_excel("data/DiseaseComparison.xlsx") %>% 
   melt(id.var=c("Name")) %>% 
   mutate(variable=as.Date(as.numeric(variable), origin="2019-12-31")) %>% 
   arrange(Name)
-# 엑셀 날짜 -> 숫자로 변경 -> 날짜인데 시작날짜 지정하기
-# janitor 패키지의 excel_numeric_to_date() 이용하기
 
 
 #### 2 그래프로 표현 ####
